@@ -1,1724 +1,1474 @@
 - changes:
-    added:
-    - First prototype version with a standard deduction variable.
-  date: 2021-06-28 00:00:00
-  version: 0.0.1
-- bump: minor
-  changes:
-    added:
-    - Prototype with some tax implementations.
-  date: 2021-12-25 00:00:00
-- bump: minor
-  changes:
-    added:
-    - Tax variables, some benefit variables.
-  date: 2021-12-25 00:00:01
-- bump: minor
-  changes:
-    added:
-    - Lifeline benefit.
-  date: 2021-12-25 00:00:02
-- bump: patch
-  changes:
-    added:
-    - Automated tests.
-  date: 2021-12-25 00:00:03
-- bump: minor
-  changes:
-    added:
-    - TANF eligibility, broken down into demographic and financial variables, with
-      financial separated by current enrollment in program.
-    - Demographic TANF eligibility per IL rules.
-  date: 2021-12-26 00:00:00
-- bump: minor
-  changes:
-    added:
-    - Medicaid income thresholds for California.
-  date: 2021-12-27 00:00:00
-- bump: minor
-  changes:
-    added:
-    - Alternative Minimum Tax (AMT) income and liability logic.
-    - Development tools for auto-generating unit tests for Tax-Calculator functions.
-  date: 2021-12-28 00:00:00
-- bump: minor
-  changes:
-    added:
-    - Gains Tax (capital gains treatment) logic and parameters.
-  date: 2021-12-28 00:00:01
-- bump: minor
-  changes:
-    added:
-    - Minimum benefit logic for SNAP.
-  date: 2021-12-28 00:00:02
-- bump: minor
-  changes:
-    added:
-    - Social Security taxation logic.
-  date: 2021-12-28 00:00:03
-- bump: minor
-  changes:
-    added:
-    - Income-to-SMI (state median income) ratio.
-  date: 2021-12-28 00:00:04
-- bump: minor
-  changes:
-    added:
-    - American Opportunity (tax) Credit.
-    - Lifetime Learning (tax) Credit.
-  date: 2021-12-30 00:00:00
-- bump: minor
-  changes:
-    added:
-    - Elderly and Disabled (tax) Credit.
-  date: 2021-12-30 00:00:01
-- bump: minor
-  changes:
-    added:
-    - Formula for Medicaid person type, based on age and dependents.
-    - Variable for whether a person meets their Medicaid income eligibility requirement.
-  date: 2021-12-31 00:00:00
-- bump: minor
-  changes:
-    added:
-    - SNAP eligibility based on federal net and gross income limits.
-    - Unit and integration tests for SNAP variables.
-  date: 2022-01-03 00:00:00
-- bump: minor
-  changes:
-    added:
-    - Federal SNAP asset tests logic
-  date: 2022-01-03 00:00:01
-- bump: minor
-  changes:
-    added:
-    - CCDF subsidy top-level logic
-  date: 2022-01-03 00:00:02
-- bump: minor
-  changes:
-    added:
-    - Categorical eligibility for SNAP, including broad-based categorical eligibility
-      via low-cost TANF programs that effectively extend SNAP's asset and income limits.
-    changed:
-    - Refactored SNAP code.
-  date: 2022-01-04 00:00:00
-- bump: patch
-  changes:
-    changed:
-    - Use USDA elderly and disabled definitions in SNAP calculations.
-  date: 2022-01-06 00:00:00
-- bump: minor
-  changes:
-    added:
-    - Total child care market rate.
-  date: 2022-01-06 00:00:01
-- bump: minor
-  changes:
-    added:
-    - Update child care market rate to annual.
-  date: 2022-01-06 00:00:02
-- bump: patch
-  changes:
-    added:
-    - Formulas for `childcare_hours_per_week` and `spm_unit_size`.
-    - Unit tests and units for some variables.
-    changed:
-    - Reorganized variables.
-  date: 2022-01-07 00:00:00
-- bump: patch
-  changes:
-    changed:
-    - Removes the `u` prefix from all variable label strings.
-  date: 2022-01-08 00:00:00
-- bump: patch
-  changes:
-    added:
-    - Units to all tax variables.
-    changed:
-    - Adds one line between tests in yaml files.
-    - Use consistent imports in variable Python files.
-    removed:
-    - C-TAM benefit variables in tax Python files.
-    - Erroneous formula for `eic` variable.
-  date: 2022-01-08 00:00:01
-- bump: minor
-  changes:
-    added:
-    - Formula for initial TANF eligibility.
-    - 'Two new variables: `tanf_gross_earned_income` and `tanf_gross_unearned_income`.'
-    - Variable & parameter for `initial_employment_deduction`.
-    - Integration tests for TANF cash aid from TANF IL website.
-    changed:
-    - '`tanf_countable_income` now includes unearned income and earned income deduction.'
-  date: 2022-01-09 00:00:00
-- bump: patch
-  changes:
     fixed:
-    - Test runner failed to test string values.
+    - '"Edit policy" button previously incorrectly pointed to the household page.'
+    - Share policy URLS missed a slash between policyengine.org and the country name.
+  date: 2022-01-09 00:00:00
+  version: 1.4.1
+- bump: patch
+  changes:
+    added:
+    - An option to use the policyengine.org server when debugging, rather than inferring
+      from the URL.
   date: 2022-01-12 00:00:00
 - bump: patch
   changes:
-    added:
-    - Metadata for SNAP eligibility parameters.
     fixed:
-    - Parameter misname in SNAP formula.
-  date: 2022-01-14 00:00:00
+    - Removed the clear buton from date pickers.
+    - Clicking the top-left icon preserves the policy.
+    - Renames Wealth to Assets.
+  date: 2022-01-12 00:00:01
 - bump: minor
   changes:
     added:
-    - Add CCDF copay formula.
-  date: 2022-01-14 00:00:01
-- bump: minor
-  changes:
-    added:
-    - Formula for SSI based on eligibility and amount if eligible.
-  date: 2022-01-14 00:00:02
-- bump: minor
-  changes:
+    - The Property, Trading and Dividend Allowances.
     fixed:
-    - Update CCDF subsidy formula.
-  date: 2022-01-15 00:00:00
+    - A bug causing the taxable UBI option to break the results.
+  date: 2022-01-12 00:00:02
 - bump: patch
   changes:
-    fixed:
-    - Added links to version tag diffs in changelog.
-  date: 2022-01-15 00:00:01
+    changed:
+    - Consolidated markdown files handling, with code documented to add more static
+      pages.
+  date: 2022-01-12 00:00:03
+- bump: patch
+  changes:
+    added:
+    - About page.
+  date: 2022-01-13 00:00:00
+- bump: patch
+  changes:
+    changed:
+    - OpenFisca-UK dependency updated to version 1.5.3.
+  date: 2022-01-13 00:00:01
+- bump: patch
+  changes:
+    changed:
+    - OpenFisca-UK dependency updated to version 1.5.4.
+    - OpenFisca-UK dependency updated to version 0.20.2.
+  date: 2022-01-13 00:00:02
+- bump: patch
+  changes:
+    changed:
+    - Command-line flag added for using synthetic UK data for debugging.
+    - OpenFisca-UK version updated to 0.10.5.
+    - OpenFisca-US version updated to 0.23.1.
+  date: 2022-01-16 00:00:00
 - bump: minor
   changes:
     added:
-    - Logic for SNAP excess medical deduction and dependent care deduction.
-    - Limit SNAP earned income deduction to earned income.
-    - Jupyter Book documentation on SNAP.
-    - Updated SNAP parameters.
-    - 'Empty variables for calculating SNAP: `employment_income`, `self_employment_income`,
-      `dividend_income`, `interest_income`, `childcare_expenses`, and `medical_out_of_pocket_expenses`.'
-    changed:
-    - Significant refactoring of SNAP code.
-    - Use openfisca-tools for `add` and `aggr` functions, and pass lists of variables
-      to these function.
-    - Rename min/max SNAP benefit parameters and variables to use `allotment`.
+    - Inequality chart showing relative change to the Gini coefficient and top-10%
+      and top-1% income shares.
   date: 2022-01-17 00:00:00
 - bump: patch
   changes:
-    changed:
-    - Add metadata for variables and parameters used in SNAP calculations.
-    - Renames two parameters involved in SNAP deductions from `threshold` to `disregard`.
+    fixed:
+    - OpenFisca-Tools dependency updated after patch to fix PolicyEngine deployment
+      failure.
   date: 2022-01-17 00:00:01
 - bump: minor
   changes:
     added:
-    - Child Tax Credit (including adult dependents) parameters, logic and tests.
+    - More inputs for calculating US SNAP benefits.
   date: 2022-01-17 00:00:02
+- bump: patch
+  changes:
+    changed:
+    - UK household input structure simplified.
+    fixed:
+    - Gini index is calculated from disposable (not equivalised) household income.
+  date: 2022-01-18 00:00:00
+- bump: patch
+  changes:
+    fixed:
+    - A bug which caused the UK household impact to be blank and the US to not show
+      the household structure panel.
+  date: 2022-01-18 00:00:01
 - bump: minor
   changes:
     added:
-    - Categorical eligibility to school meal subsidies.
-    - Documentation notebook on school meal subsidies.
-    - Parameterized income sources for school meal subsidies.
+    - UK flag icons for Tax and Benefit sections.
+    - The single pensioner supplement - a hypothetical means-tested payment to single
+      pensioners proposed by the Green Party.
+    fixed:
+    - Inequality measures all use equivalised income.
+  date: 2022-01-19 00:00:00
+- bump: patch
+  changes:
+    fixed:
+    - SPS takeup now applies to survey data runs and is exempted from household simulations.
+    - Earnings variation charts now use household net income rather than personal
+      net income.
+  date: 2022-01-20 00:00:00
+- bump: patch
+  changes:
+    fixed:
+    - Changing the number of adults previously didn't update the variation charts.
+    - Variation charts wouldn't load for multi-person households.
+  date: 2022-01-20 00:00:01
+- bump: patch
+  changes:
     changed:
-    - Count school meal subsidies by school enrollment rather than age.
-    - Remove `spm_unit_` prefix from school meal variables.
+    - Your policy, UK impact and Share policy headers removed.
+    - Spacing and auto-collapsed status added to the UK impact disclaimer.
+  date: 2022-01-21 00:00:00
+- bump: patch
+  changes:
+    added:
+    - Universal Credit parameters for specific elements.
+    - Green Party url for the 2019 manifesto (/green-party/manifesto-2019).
+    fixed:
+    - Named policy redirects now work for all pages, not just population impact.
+  date: 2022-01-22 00:00:00
+- bump: patch
+  changes:
+    changed:
+    - "Green Party Manifesto link increases child UBI from \xA370/week to \xA375/week."
+  date: 2022-01-24 00:00:00
+- bump: minor
+  changes:
+    added:
+    - School meal subsidies and net income to US app.
   date: 2022-01-25 00:00:00
 - bump: minor
   changes:
     added:
-    - Child Tax Credit (and historical policy).
-    - Non-refundable and refundable credit handling in tax logic.
-    - Metadata for education credits and the EITC.
+    - 'Miscellaneous: cash payments to benefit recipients or taxpayers.'
+  date: 2022-01-26 00:00:00
+- bump: patch
+  changes:
+    added:
+    - The household page now has a primary navigation button, pointing to the results
+      tab.
+    - Descriptive error messages when variables fail to load.
+    changed:
+    - The dividers on the household page link to their first descendent when clicked.
     fixed:
-    - Bugs in head/spouse detection and nonrefundable credits.
+    - Copy links from the population impact and household pages are now valid.
+    - The accounting table is now responsive.
+  date: 2022-01-26 00:00:01
+- bump: patch
+  changes:
+    changed:
+    - Miscellaneous cash payments now have the Social Market Foundation branding.
+  date: 2022-01-26 00:00:02
+- bump: patch
+  changes:
+    fixed:
+    - A bug which caused boolean parameters to display "false -> false" when unchecked.
+    - The SMF tax-based payment now is paid to basic/intermediate/starter rate payers,
+      rather than just not higher and additional rate payers.
   date: 2022-01-28 00:00:00
 - bump: patch
   changes:
+    fixed:
+    - The SMF tax-based payment now excludes households with higher and additional
+      rate payers.
+  date: 2022-01-29 00:00:00
+- bump: patch
+  changes:
+    fixed:
+    - Decile changes are now all household-weighted, except for decile placement.
+  date: 2022-01-29 00:00:01
+- bump: patch
+  changes:
+    changed:
+    - Change color scheme to gray/green for negative/positive changes.
+  date: 2022-01-29 00:00:02
+- bump: minor
+  changes:
     added:
-    - Metadata and variable aliases for key tax variables.
-    - Employment, self-employment, interest and dividend income as inputs to tax logic.
+    - Federal tax output variable in the net income panel.
+    - Beta label on PolicyEngine US.
   date: 2022-02-02 00:00:00
 - bump: patch
   changes:
+    changed:
+    - "UK Green Party manifesto policy extends the higher rate threshold to \xA350,000."
+    - OpenFisca-UK updated with re-weighting routine.
+  date: 2022-02-04 00:00:00
+- bump: minor
+  changes:
     added:
-    - Added formula for TANF variable `continuous_tanf_eligibility`
-    - Added integration test for continuous TANF eligibility to `integration.yaml`
+    - UK miscellaneous reform - exempt seniors from personal allowance changes.
   date: 2022-02-06 00:00:00
 - bump: minor
   changes:
     added:
-    - SNAP emergency allotments for California.
-    - SNAP unearned income example in JupyterBook docs.
+    - Energy Bills Rebate parameters and household variables.
   date: 2022-02-06 00:00:01
-- bump: minor
-  changes:
-    added:
-    - California Clean Vehicle Rebate Project.
+- bump: patch
+  changes: {}
   date: 2022-02-07 00:00:00
 - bump: minor
   changes:
     added:
-    - Guaranteed income / cash assistance pilot income variable. This counts as unearned
-      income for SNAP, uncounted for taxes and other benefits.
-  date: 2022-02-07 00:00:01
-- bump: patch
-  changes:
-    fixed:
-    - EITC logic and parameters for non-3-child tax units.
+    - US inputs for guaranteed income, phone expenses, and broadband expenses.
+    - Lifeline and CVRP US benefits.
+    - Separation of normal and emergency SNAP allotments.
+    - Parameters for Lifeline amount and income limit (% of FPL).
   date: 2022-02-08 00:00:00
 - bump: patch
   changes:
-    added:
-    - PolicyEngine metadata and notebook for Lifeline program.
-    - Formula for `irs_gross_income`, which Lifeline uses to calculate income-based
-      eligibility.
+    changed:
+    - Right policy overview sidebar is now fixed and applies pagination.
+    fixed:
+    - US Lifeline and CA CVRP calculate correctly in the household page.
   date: 2022-02-08 00:00:01
+- bump: minor
+  changes:
+    added:
+    - US WIC program and its inputs.
+    - US guaranteed income / cash assistance input.
+  date: 2022-02-09 00:00:00
 - bump: patch
   changes:
-    fixed:
-    - Add Lifeline notebook to table of contents.
-  date: 2022-02-08 00:00:02
-- bump: minor
-  changes:
     added:
-    - Income limits for 5 Maryland Medicaid coverage groups.
-  date: 2022-02-09 00:00:00
-- bump: minor
-  changes:
-    added:
-    - WIC program.
+    - US SNAP normal and emergency allotment breakdown.
     fixed:
-    - Include guaranteed income / cash assistance in market income.
+    - Styling and indentation inconsistencies in the household accounting table.
   date: 2022-02-09 00:00:01
 - bump: patch
   changes:
     fixed:
-    - Change WIC display name from `WIC benefit value` to `WIC`.
-  date: 2022-02-09 00:00:02
-- bump: patch
-  changes:
-    fixed:
-    - Specify WIC's unit as USD.
-  date: 2022-02-09 00:00:03
-- bump: patch
-  changes:
-    fixed:
-    - Remove guaranteed income / cash assistance from benefits.
-  date: 2022-02-09 00:00:04
-- bump: patch
-  changes:
-    added:
-    - Categorical breakdown metadata infrastructure from OpenFisca-Tools.
+    - UK household breakdown did not calculate the energy bills rebate in the accounting
+      table.
+    - Removed test run from merge action (this is run on GCP as well).
   date: 2022-02-10 00:00:00
 - bump: patch
   changes:
-    added:
-    - Chained CPI-U (monthly and August-only) parameters.
-    - Metadata for SNAP max allotment.
-  date: 2022-02-13 00:00:00
+    fixed:
+    - Accounting table did not correctly apply negative sign.
+  date: 2022-02-10 00:00:01
 - bump: patch
   changes:
+    added:
+    - Basic income phase-outs and Child Benefit withdrawal switch added.
     changed:
-    - OpenFisca-Tools constraint widened to the current major version.
+    - UBI Center UBI parameters renamed to basic income.
+  date: 2022-02-10 00:00:02
+- bump: minor
+  changes:
+    added:
+    - Breakdown parameter control for parameters broken down by successive categories.
+    - SNAP maximum allotment parameter.
   date: 2022-02-16 00:00:00
+- bump: patch
+  changes:
+    fixed:
+    - Bumped OpenFisca-Tools to 0.4.1, fixing a mistaken import that caused GCP machine
+      failure.
+  date: 2022-02-16 00:00:01
+- bump: patch
+  changes:
+    changed:
+    - Household MTR chart y-axis now defaults to (0, 100%) instead of (-100%, 100%).
+    - Current-policy accounting table numbers are closer to their labels.
+    - Deployment code quality fixes.
+    - UK policy "General" section renamed to "Snapshot" and clock icon added.
+    - UK policy section "Miscellaneous" icon added.
+  date: 2022-02-18 00:00:00
 - bump: minor
   changes:
     added:
-    - Uprated tax parameters for federal income tax.
+    - Affordable Connectivity Program and Emergency Broadband Benefit to US household
+      calculator.
+    - Rural flag to calculate Lifeline's rural Tribal supplement.
+    changed:
+    - Split out free and reduced price school meals.
   date: 2022-02-21 00:00:00
-- bump: minor
+- bump: patch
   changes:
     added:
-    - Affordable Connectivity Program.
+    - Disclaimer to the household impact page.
     changed:
-    - Split school meal subsidies into free and reduced-price.
-  date: 2022-02-21 00:00:01
-- bump: minor
-  changes:
-    added:
-    - Rural Tribal supplement for Lifeline.
-    changed:
-    - Restructure ACP and EBB Tribal amounts to work with PolicyEngine.
-  date: 2022-02-21 00:00:02
+    - 'US household entry page: split up household inputs into benefits/expenses and
+      geography.'
+    - Shortened UK impact button text.
+  date: 2022-02-23 00:00:00
 - bump: patch
   changes:
     changed:
-    - Edited labels for ACP and SNAP normal allotment.
-  date: 2022-02-21 00:00:03
-- bump: patch
-  changes:
-    fixed:
-    - Subtract Lifeline from broadband cost before calculating ACP and EBB.
+    - Reorganized PolicyEngine US input variable hierarchy.
   date: 2022-02-27 00:00:00
-- bump: patch
-  changes:
-    added:
-    - Code coverage badge to README.md.
-    - Reminder for pull requests to run `make format && make documentation`.
-    - CPI-uprated values for WIC average payments.
-    changed:
-    - Child Tax Credit names renamed to `ctc`.
-    - Child and Dependent Care Credit names renamed to `cdcc`.
-    fixed:
-    - EITC maximum age in 2021 changed from 125 to infinity.
-  date: 2022-02-28 00:00:00
 - bump: minor
   changes:
     added:
-    - Supplemental Security Income for individuals.
-    - Social Security input variables, counted as unearned income for several programs.
+    - Deep poverty.
+  date: 2022-02-28 00:00:00
+- bump: patch
+  changes:
+    changed:
+    - Hides legend from household charts when user has not provided a reform.
+    - Edits y axis title on decile chart and refactors decile chart.
+  date: 2022-02-28 00:00:01
+- bump: patch
+  changes:
+    changed:
+    - OpenFisca-UK bumped to 0.13.0.
+    - Numeric parameters now round to the nearest 0.01 (previously 1).
+    fixed:
+    - A bug preventing AutoUBI from functioning.
+    - A bug causing boolean parameter switches to not revert properly.
+    - A bug causing the MTR chart to always say "MTR remains at ...".
+  date: 2022-03-01 00:00:00
+- bump: minor
+  changes:
+    added:
+    - Baseline and reformed values to hovercards.
+  date: 2022-03-03 00:00:00
+- bump: minor
+  changes:
+    added:
+    - Social Security inputs to US app.
+    changed:
+    - Moved personal benefits into their own section.
+    - Moved SSI from household to personal.
   date: 2022-03-04 00:00:00
 - bump: patch
   changes:
     changed:
-    - Adjust variable labels for consistency.
+    - Update OpenFisca US for variable label changes.
   date: 2022-03-04 00:00:01
-- bump: minor
-  changes:
-    added:
-    - SNAP aggregate benefits and participation.
-  date: 2022-03-05 00:00:00
 - bump: patch
   changes:
+    added:
+    - US FAQ.
     changed:
-    - Point `e02400` to `social_security` (for PolicyEngine).
+    - Update OpenFisca UK to use new weights.
+    - Update OpenFisca US to capture Social Security taxability.
+    - Update UK FAQ.
   date: 2022-03-07 00:00:00
 - bump: patch
   changes:
     added:
-    - '`spm_unit_weight` variable.'
+    - UK income tax rate reform pensioner exemption switch.
     fixed:
-    - SNAP now uses the additional amounts where main rates are not available.
-  date: 2022-03-07 00:00:01
-- bump: patch
-  changes:
-    changed:
-    - '`is_married` moved from person-level to family-level, with a formula added.'
+    - AutoUBI now calculates correct UBI amounts.
   date: 2022-03-08 00:00:00
 - bump: patch
   changes:
-    changed:
-    - IRS-published uprated income tax parameters for 2019-22.
+    fixed:
+    - US state code switch disabled and a tooltip added.
+    - Updates 2021 references to 2022.
   date: 2022-03-09 00:00:00
-- bump: patch
-  changes:
-    added:
-    - February 2022 chained CPI-U.
-    changed:
-    - Simplified WIC uprating.
-  date: 2022-03-11 00:00:00
-- bump: patch
-  changes:
-    fixed:
-    - EITC uses the correct phase-in rate.
-  date: 2022-03-13 00:00:00
-- bump: patch
-  changes:
-    changed:
-    - Tax folder re-organised to improve modularity.
-    fixed:
-    - A bug in AMT calculations.
-  date: 2022-03-16 21:22:44
-- bump: patch
-  changes:
-    fixed:
-    - Push action on GitHub correctly publishes.
-  date: 2022-03-16 20:29:58
-- bump: patch
-  changes:
-    fixed:
-    - Push action on GitHub correctly publishes.
-  date: 2022-03-16 21:22:44
-- bump: minor
-  changes:
-    changed:
-    - Added multiple parameters for California's TANF system.
-    - Refactored the TANF structure for easier implementation of other state TANF
-      programs.
-  date: 2022-03-27 18:49:02
-- bump: patch
-  changes:
-    added:
-    - Page on TANF to documentation.
-  date: 2022-03-28 10:40:42
-- bump: patch
-  changes:
-    fixed:
-    - Versioning action didn't update `setup.py`.
-  date: 2022-03-28 10:55:27
-- bump: minor
-  changes:
-    changed:
-    - Added `is_eitc_qualifying_child` variable to improve EITC child logic.
-    - Split `is_in_school` into `is_in_k12_school` and `is_full_time_student`.
-  date: 2022-03-28 11:34:53
 - bump: minor
   changes:
     added:
-    - Net income limits for SNAP BBCE (TANF) program.
-    - Legislative references for SNAP income limits.
+    - US income tax rates and thresholds.
+  date: 2022-03-09 00:00:01
+- bump: minor
+  changes:
+    changed:
+    - Household entry page now opts for "Single"/"Married" instead of the number of
+      adults.
+  date: 2022-03-09 00:00:02
+- bump: patch
+  changes:
+    fixed:
+    - US policy page broke when selecting IRS parameters.
+  date: 2022-03-10 00:00:00
+- bump: patch
+  changes:
+    added:
+    - YAML-based changelog.
+  date: 2022-03-11 13:14:28
+- bump: patch
+  changes:
+    fixed:
+    - Bugs relating to changelog features.
+  date: 2022-03-11 13:35:34
+- bump: patch
+  changes:
+    fixed:
+    - PR action now previews changelog updates.
+  date: 2022-03-11 15:19:49
+- bump: patch
+  changes:
+    fixed:
+    - Update inequality chart's hover cards to include baseline and reform values
+  date: 2022-03-13 02:57:09
+- bump: patch
+  changes:
+    fixed:
+    - Font issues when users don't have the fonts installed.
+  date: 2022-03-13 20:46:24
+- bump: patch
+  changes:
+    changed:
+    - Fix policy summary to 50% vertical height.
+  date: 2022-03-14 13:06:55
+- bump: minor
+  changes:
+    added:
+    - Earnings variation charts for the US.
+  date: 2022-03-14 16:11:04
+- bump: patch
+  changes:
+    fixed:
+    - A bug in which adding a spouse would not correctly add their age.
+  date: 2022-03-15 19:07:08
+- bump: patch
+  changes:
+    added:
+    - Debugging tools for household charts.
+  date: 2022-03-16 22:47:57
+- bump: patch
+  changes:
+    changed:
+    - Bump OpenFisca-US to 0.3.7.
+  date: 2022-03-17 12:14:12
+- bump: patch
+  changes:
+    changed:
+    - Bump OpenFisca-Tools to 0.7.0.
+  date: 2022-03-21 14:04:55
+- bump: patch
+  changes:
+    fixed:
+    - US pages use the USD currency in charts and hover labels.
+  date: 2022-03-22 14:38:23
+- bump: minor
+  changes:
+    added:
+    - Landing page.
+    - Help icon which launches a walkthrough.
+  date: 2022-03-23 22:20:50
+- bump: patch
+  changes:
+    changed:
+    - HTTP redirects to HTTPS.
+    - Commentary on landing page changed to Blog.
+    - Make header spacing more responsive.
+    - Remove Home tab in the top menu.
+    - Fix typo on landing page.
+    - Set card title to PolicyEngine.
+    - Link to GitHub on the landing page.
+    - Add spacing in landing page and fix card ordering.
+  date: 2022-03-24 20:43:07
+- bump: patch
+  changes:
+    fixed:
+    - Ensures the docker instance upgrades pip before installing packages.
+  date: 2022-03-24 21:40:50
+- bump: minor
+  changes:
+    added:
+    - Snapshot and reset buttons to the US app.
+    changed:
+    - Baseline policy is now editable.
+    fixed:
+    - HTTPS redirect sped up using HTML meta tags.
+  date: 2022-03-28 10:17:04
+- bump: patch
+  changes:
+    fixed:
+    - Deployment timeout increased.
+  date: 2022-03-28 13:15:19
+- bump: minor
+  changes:
+    added:
+    - Options to see the household earnings charts as difference only.
+  date: 2022-03-28 14:55:14
+- bump: minor
+  changes:
+    fixed:
+    - 50-70% speed increase in simulations.
+    - Broken IFrame removed from FAQ pages.
+    - Blog subtitle removed.
+  date: 2022-03-29 10:35:30
+- bump: patch
+  changes:
+    changed:
+    - Bump OpenFisca US to update SNAP logic.
     removed:
-    - 165% SNAP gross income limit for separate elderly and disabled households (unused).
-  date: 2022-03-30 01:17:38
-- bump: minor
-  changes:
-    added:
-    - CDCC parameters for eligibility and metadata.
-    fixed:
-    - A bug where the CDCC would phase down too quickly.
-  date: 2022-03-30 11:46:11
-- bump: patch
-  changes:
-    added:
-    - Parameter metadata for tax credits and payroll taxes.
-  date: 2022-03-30 13:12:44
-- bump: patch
-  changes:
-    added:
-    - Added full-time college student variable.
-  date: 2022-03-30 18:53:00
-- bump: minor
-  changes:
-    added:
-    - HUD adjusted income and dependent variables and logic.
-  date: 2022-04-05 19:04:10
+    - Unused elderly/disabled SNAP gross income limit parameter.
+  date: 2022-03-30 09:44:07
 - bump: patch
   changes:
     fixed:
-    - Point TANF parameter to state instead of region.
-  date: 2022-04-06 10:35:14
+    - Population impact breakdown correctly handles baseline-editing simulations.
+  date: 2022-03-30 10:13:57
 - bump: minor
   changes:
     added:
-    - More recent Social Security payroll tax cap parameter values.
-    - Separate parameters for employer payroll taxes and self-employment taxes.
-    - Parameter for self-employment net earnings disregard.
-    - Unit tests and legislative references for payroll and self-employment tax variables.
+    - CDCC parameters.
+  date: 2022-03-30 11:59:14
+- bump: minor
+  changes:
+    added:
+    - Country-specific social preview cards.
+    - US tax parameters.
+  date: 2022-03-30 19:43:38
+- bump: minor
+  changes:
     changed:
-    - Reorganized payroll and self-employment tax parameters and variables.
-    - Replaced large parameters with infinity and made number formatting consistent.
+    - OpenFisca-UK bumped to 0.18.0
+  date: 2022-04-03 20:15:37
+- bump: minor
+  changes:
+    added:
+    - Option to see UK-wide effects by wealth decile.
     removed:
-    - Reform-only `social_security.add_taxable_earnings` parameter.
-    - Unused `exact` variable.
-    - Variable for `social_security_taxes` (moved logic to `refundable_child_tax_credit`).
-  date: 2022-04-07 06:08:18
+    - About and donate tabs removed.
+  date: 2022-04-05 15:40:36
+- bump: minor
+  changes:
+    fixed:
+    - Hover cards now have the same font (Ubuntu) as the app itself.
+  date: 2022-04-06 15:54:38
 - bump: patch
   changes:
     fixed:
-    - Refundable CTC formula works properly when phase-in rate increased (comments
-      added).
-  date: 2022-04-12 18:38:49
-- bump: minor
-  changes:
-    added:
-    - Capped non-refundable credits variable.
-    - Shortened labels for tax variables.
-  date: 2022-04-13 12:58:29
-- bump: minor
-  changes:
-    added:
-    - Microdata now handled entirely within PolicyEngine US.
-  date: 2022-04-14 08:19:40
-- bump: patch
-  changes:
-    added:
-    - Legislative references for CDCC parameters.
-    fixed:
-    - CDCC uses maximum dependent parameter.
-  date: 2022-04-15 14:23:11
-- bump: patch
-  changes:
-    added:
-    - Unit tests for age variables.
-    fixed:
-    - Tax unit head and spouse flag logic.
-  date: 2022-04-15 18:10:27
-- bump: minor
-  changes:
-    added:
-    - American Community Survey input.
-  date: 2022-04-19 10:22:36
+    - Set default US policy selected to IRS income tax rates.
+    - Corrected decile chart axes when using wealth deciles.
+  date: 2022-04-06 21:24:33
 - bump: patch
   changes:
     fixed:
-    - Bug preventing the package from publishing on PyPI.
-  date: 2022-04-19 13:04:12
-- bump: minor
-  changes:
-    added:
-    - Per-vehicle payment (California)
-  date: 2022-04-19 15:52:56
-- bump: minor
-  changes:
-    added:
-    - SPM unit income decile.
-    - SPM unit OECD equivalisation.
-    fixed:
-    - Basic income variable for adults and seniors.
-  date: 2022-04-21 14:15:27
-- bump: minor
-  changes:
-    added:
-    - Basic income now included in SPM unit benefits.
-  date: 2022-04-21 20:42:35
-- bump: patch
-  changes:
-    added:
-    - URL from which to download the latest CPS dataset (skipping generation)
-  date: 2022-04-22 13:39:09
-- bump: minor
-  changes:
-    added:
-    - Massachusetts state income tax.
-    - EITC documentation notebook.
-  date: 2022-04-30 22:16:10
-- bump: minor
-  changes:
-    added:
-    - Empty variables for state and local sales tax, and local income tax.
-    - Logic for the SALT deduction to choose the greater of state and local income
-      tax or state and local sales tax.
-    - Massachusetts SNAP parameters.
-  date: 2022-05-01 14:45:31
-- bump: patch
-  changes:
-    added:
-    - Notebook showing total net income and marginal tax rate charts for Massachusetts
-      residents.
-  date: 2022-05-01 20:21:24
-- bump: minor
-  changes:
-    added:
-    - Formulas for xtot, num, blind_head, blind_spouse, age_head, and age_spouse.
-    - Unit tests for some existing formulas.
-    changed:
-    - Classify single person with dependents as head of household, not single.
-    - Split tax unit variables into their own files.
-    - Rename `marital_status` and `mars` to `filing_status`.
-  date: 2022-05-01 21:21:19
-- bump: minor
-  changes:
-    added:
-    - Script to generate integration tests from TAXSIM.
-    - TAXSIM integration tests for the EITC.
-  date: 2022-05-01 23:08:30
-- bump: minor
-  changes:
-    changed:
-    - Tied SALT deduction to state income tax.
-    - Improved charts in Massachusetts notebook.
-  date: 2022-05-02 05:24:28
-- bump: patch
-  changes:
-    fixed:
-    - Specify documentation colors without policyengine package.
-  date: 2022-05-02 06:38:45
-- bump: minor
-  changes:
-    added:
-    - TAXSIM tests for taxable SS and UI.
-  date: 2022-05-02 17:50:11
-- bump: minor
-  changes:
-    added:
-    - SNAP parameters by state from snapscreener.com.
-  date: 2022-05-03 16:41:49
-- bump: minor
-  changes:
-    added:
-    - SSI notebook.
-    - SSI example to MA notebook.
-    - MA state tax exemptions for aged and blind people.
-    - Unit tests for state tax exemptions.
-  date: 2022-05-04 19:44:35
+    - Counterfactual works for abolition variables.
+  date: 2022-04-07 13:56:07
 - bump: patch
   changes:
     changed:
-    - CO SNAP BBCE net income limit set to true.
-    - Cite official source for SNAP emergency allotment amount.
-  date: 2022-05-05 06:07:31
-- bump: minor
-  changes:
-    added:
-    - Metadata and verbose variable names for IRS computation up to AGI.
-  date: 2022-05-05 17:25:36
-- bump: patch
-  changes:
-    fixed:
-    - Bug causing the system to fail to load on Colab.
-  date: 2022-05-05 21:54:08
-- bump: minor
-  changes:
-    added:
-    - TAXSIM integration tests for AGI.
-    changed:
-    - TAXSIM variables renamed to contain `taxsim_` prefix.
-  date: 2022-05-08 19:55:20
-- bump: minor
-  changes:
-    added:
-    - Medicaid eligibility for 50 states.
-  date: 2022-05-10 13:57:16
-- bump: minor
-  changes:
-    added:
-    - TANF from CPS data.
-    - Female variable.
-    - Variable for number of own children in household.
-  date: 2022-05-10 17:57:30
-- bump: minor
-  changes:
-    added:
-    - List of fully implemented programs at the US and state level.
-  date: 2022-05-11 14:17:28
-- bump: patch
-  changes:
-    fixed:
-    - Moved lingering state income tax deduction files into variables/gov.
-  date: 2022-05-11 15:14:12
+    - Center-aligns homepage.
+    - Replaces side-by-side flags to enter the app with primary and secondary buttons
+      stacked.
+    - Links API documentation from homepage.
+    - Changes some text colors.
+  date: 2022-04-07 17:49:10
 - bump: patch
   changes:
     changed:
-    - Label state income tax consistently with federal.
-  date: 2022-05-11 17:41:12
+    - Bump OpenFisca US.
+    - Add payroll and self-employment tax parameters.
+    - Adjust landing page spacing.
+    - Bump OpenFisca US.
+    - Add payroll and self-employment tax parameters.
+    - Adjust landing page spacing.
+  date: 2022-04-08 15:25:05
 - bump: patch
   changes:
-    fixed:
-    - Remove bad import causing failure on some headless configurations.
-  date: 2022-05-11 23:19:04
-- bump: minor
-  changes:
-    added:
-    - Estimated Medicaid benefit value.
-    - Aged/blind/disabled asset and income limits.
-  date: 2022-05-16 12:11:08
-- bump: minor
-  changes:
-    changed:
-    - Refactored (references, simplifications and reorganisation) AGI -> taxable income
-      code.
-  date: 2022-05-16 20:12:47
-- bump: patch
-  changes:
-    fixed:
-    - Corrected EITC phase-out start values for 2020 and 2021.
-  date: 2022-05-17 22:49:48
-- bump: minor
-  changes:
-    added:
-    - WIC takeup and nutritional risk imputations.
-  date: 2022-05-19 11:54:27
-- bump: minor
-  changes:
-    added:
-    - MaritalUnit entity.
-    - Massachusetts state supplement.
-  date: 2022-05-19 12:47:08
-- bump: patch
-  changes:
-    added:
-    - WIC by earnings example in docs.
-    fixed:
-    - Made WIC categorical eligibility person-level and more accurate.
-    - Pointed TANF maximum benefit variable to the correct parameter.
-    - Bug preventing tax_unit_childcare_expenses from being calculated.
     removed:
-    - Extraneous variable documentation fields.
-  date: 2022-05-24 15:20:46
-- bump: minor
-  changes:
-    added:
-    - CDCC integration tests.
-    changed:
-    - Re-implemented CDCC according to the U.S. code.
-  date: 2022-05-26 14:10:48
-- bump: minor
-  changes:
-    added:
-    - EITC parameters for 2017 and 2018.
-  date: 2022-05-28 06:59:45
-- bump: patch
-  changes:
-    fixed:
-    - A bug causing the CDCC to not cap at the two-child childcare max expenses.
-  date: 2022-05-30 22:40:36
-- bump: minor
-  changes:
-    added:
-    - SSI deeming rules.
-  date: 2022-05-31 17:31:13
-- bump: patch
-  changes:
-    added:
-    - New `tax_unit_ssi` variable.
-    - Example of single parent with two disabled children in SSI documentation notebook.
-    fixed:
-    - Zeroed out `premium_tax_credit` in Massachusetts example notebook.
-  date: 2022-06-01 04:50:12
-- bump: patch
-  changes:
-    fixed:
-    - Typo in SSI notebook.
-  date: 2022-06-01 05:49:06
-- bump: patch
-  changes:
-    added:
-    - New `taxsim_tfica` variable for testing.
-  date: 2022-06-02 03:24:39
-- bump: minor
-  changes:
-    changed:
-    - Apply consistent CTC young child formula to all years.
-    - Move CTC variables into their own files and other minor refactoring.
-    fixed:
-    - Limit excess of Social Security taxes over EITC for refundable CTC to taxpayers
-      with a minimum number of children.
-  date: 2022-06-02 11:44:25
-- bump: patch
-  changes:
-    fixed:
-    - Fix EITC bug which applied the phase-out after, instead of before, the phase-in.
-  date: 2022-06-02 16:51:48
+    - US self-employment income input.
+  date: 2022-04-08 20:05:37
 - bump: patch
   changes:
     changed:
-    - Applied new openfisca-tools helper function `index_` to speed up SLSPC calculations.
-  date: 2022-06-02 17:01:01
-- bump: patch
-  changes:
-    fixed:
-    - A bug causing UC- and SS-related MAGI to incorrectly overcount loss deductions.
-  date: 2022-06-02 17:03:08
-- bump: minor
-  changes:
-    added:
-    - Massachusetts State income tax.
-  date: 2022-06-06 13:50:33
+    - Bump OpenFisca-US to capture CTC bug fix.
+    - Fit navigation buttons to width.
+  date: 2022-04-14 13:39:25
 - bump: patch
   changes:
     changed:
-    - Reorganized state documentation.
-    fixed:
-    - Entered rent person-level in documentation to align with latest package update.
-  date: 2022-06-06 16:15:48
+    - Update budget hovercard for when there is no reform.
+  date: 2022-04-16 17:10:04
 - bump: patch
   changes:
     fixed:
-    - Medicaid benefit value per state.
-  date: 2022-06-07 09:54:21
+    - Blog API failure doesn't crash the site.
+  date: 2022-04-17 00:02:39
+- bump: patch
+  changes:
+    fixed:
+    - Use country-specific tax and benefit variable to fix broken "How earnings affect
+      you" chart in the US.
+  date: 2022-04-17 06:11:37
+- bump: patch
+  changes:
+    fixed:
+    - Remove decimal from MTR chart y-axis label.
+  date: 2022-04-17 19:33:33
+- bump: patch
+  changes:
+    fixed:
+    - Blog posts now show on the homepage.
+  date: 2022-04-19 13:22:51
 - bump: minor
   changes:
     added:
-    - New York State EITC.
-    - Longer history for the Massachusetts rental tax deduction.
-  date: 2022-06-07 18:04:31
-- bump: patch
-  changes:
-    fixed:
-    - Deduct government retirement contributions from MA taxable income on a per-person
-      basis.
-  date: 2022-06-07 20:27:48
-- bump: patch
-  changes:
-    added:
-    - Metadata for MA policy.
-  date: 2022-06-08 05:07:17
+    - US population simulations for basic income parameters.
+  date: 2022-04-22 09:49:12
 - bump: patch
   changes:
     changed:
-    - Breakdowns always specified as a list.
-  date: 2022-06-08 10:45:48
+    - Increase memory allocation on the server to 8GB (needed for US population impacts).
+  date: 2022-04-22 12:17:10
+- bump: patch
+  changes:
+    fixed:
+    - Download instead of generate the CPS dataset for the US microsimulation.
+  date: 2022-04-22 13:47:44
+- bump: patch
+  changes:
+    fixed:
+    - Memory allocation reduced back to 6GB (unnecessary given previous PR).
+  date: 2022-04-22 15:26:59
 - bump: minor
   changes:
     added:
-    - Housing assistance and dependent variables.
-  date: 2022-06-09 03:20:13
+    - Debugging tools allowing decomposition of the net income charts when a reform
+      is applied.
+    changed:
+    - OpenFisca-US bumped.
+    - Federal tax expandable on the US household page.
+  date: 2022-04-22 17:56:09
 - bump: patch
   changes:
     fixed:
-    - A bug causing itemisation logic to fail.
-  date: 2022-06-10 13:24:12
-- bump: patch
-  changes:
-    fixed:
-    - Point `cdcc_refund` to `cdcc` not the deprecated `c33200`.
-  date: 2022-06-12 20:17:09
+    - Set decimals on y axis of poverty and decile graphs dynamically.
+  date: 2022-04-24 22:10:24
 - bump: minor
   changes:
     added:
-    - New York State household credit.
-  date: 2022-06-13 15:06:03
-- bump: patch
-  changes:
-    fixed:
-    - Childcare expenses are now correctly loaded from the CPS.
-  date: 2022-06-13 21:56:08
-- bump: patch
-  changes:
-    fixed:
-    - A bug causing the CDCC to have negative relevant expenses.
-  date: 2022-06-15 21:45:58
+    - Legislation explorer.
+  date: 2022-04-26 11:23:09
 - bump: minor
   changes:
     added:
-    - Basic income amounts for young children and young adults.
-    - Flat tax on AGI.
+    - References to the legislation explorer
+  date: 2022-04-27 12:49:13
+- bump: minor
+  changes:
+    changed:
+    - Legislation explorer renamed to API explorer (with redirects)
+  date: 2022-04-28 14:51:46
+- bump: minor
+  changes:
+    added:
+    - UK country selector for country-specific analysis.
+  date: 2022-04-29 10:07:07
+- bump: minor
+  changes:
+    added:
+    - API explorer improvements.
+  date: 2022-04-29 12:46:58
+- bump: patch
+  changes:
     fixed:
-    - Three-digit zipcodes are generated with a fixed seed.
-    - Housing subsidies correctly included in benefits.
+    - Fixed a bug causing incorrect descriptions for variables without descriptions.
+  date: 2022-04-29 15:09:42
+- bump: patch
+  changes:
+    added:
+    - Computation tree, leaf nodes and dependencies endpoints.
+    changed:
+    - UK country selector for country-specific analysis now in the baseline rather
+      than reform. than reform.
+  date: 2022-04-29 19:12:18
+- bump: patch
+  changes:
+    fixed:
+    - Fixed a bug causing simulations with country selections to not load URLs correctly.
+  date: 2022-04-30 21:30:06
+- bump: minor
+  changes:
+    added:
+    - Shadings to net income and MTR charts with cliffs.
+  date: 2022-05-02 06:25:53
+- bump: patch
+  changes:
+    fixed:
+    - Fixed a bug which prevented the country specifier from applying.
+  date: 2022-05-04 18:41:39
+- bump: minor
+  changes:
+    changed:
+    - Converted some icons (green-party, simulation, uk, misc) to webp format.
+  date: 2022-05-10 22:39:32
+- bump: minor
+  changes:
+    changed:
+    - Size logo image to actual aspect ratio.
+  date: 2022-05-11 11:28:42
+- bump: minor
+  changes:
+    changed:
+    - Bumped OpenFisca-US version to 0.61.0.
+    fixed:
+    - Bug in which some baseline-editing policies would have no net impact.
+  date: 2022-05-11 16:09:42
+- bump: minor
+  changes:
+    changed:
+    - Allow selecting any US state.
+    - Add US state income tax.
+    - Add controls for Affordable Connectivity Program amount.
+  date: 2022-05-11 18:25:03
+- bump: patch
+  changes:
+    fixed:
+    - Fixed a bug causing deployments to fail.
+  date: 2022-05-12 01:48:22
+- bump: patch
+  changes:
+    fixed:
+    - Fixed NI thresholds in the UK.
+  date: 2022-05-19 17:51:44
+- bump: patch
+  changes:
+    changed:
+    - Bumped openfisca-uk to 0.23.2.
+  date: 2022-05-22 16:04:01
+- bump: patch
+  changes:
+    changed:
+    - Bumped openfisca-uk to 0.23.3.
+  date: 2022-05-22 21:13:34
+- bump: minor
+  changes:
+    added:
+    - Hover label for cliff rectangles.
+  date: 2022-05-25 15:45:38
+- bump: minor
+  changes:
+    added:
+    - UK payment to households on means tests.
+  date: 2022-05-26 11:00:20
+- bump: minor
+  changes:
+    changed:
+    - Bump OpenFisca-UK.
+  date: 2022-05-26 11:24:33
+- bump: minor
+  changes:
+    changed:
+    - Bump OpenFisca-UK to add government cost-of-living support policy.
+  date: 2022-05-26 13:26:35
+- bump: minor
+  changes:
+    changed:
+    - Bump OpenFisca-UK.
+  date: 2022-05-26 14:17:01
+- bump: minor
+  changes:
+    changed:
+    - Bump OpenFisca-UK.
+  date: 2022-05-26 16:40:31
+- bump: minor
+  changes:
+    fixed:
+    - A rounding bug causing the net cost headline figure to incorrectly show a round
+      (.0) number where there should be a fraction.
+  date: 2022-05-26 20:33:09
+- bump: minor
+  changes:
+    added:
+    - US Supplemental Security Income amount and parameters.
+  date: 2022-06-01 14:09:11
+- bump: patch
+  changes:
+    changed:
+    - Large speed increase by removing unused policy parameters.
+  date: 2022-06-01 22:31:54
+- bump: patch
+  changes:
+    fixed:
+    - Bug causing the app to break when selecting a UK region.
+  date: 2022-06-03 18:55:05
+- bump: minor
+  changes:
+    changed:
+    - More references shown in parameters for country models.
+  date: 2022-06-06 08:42:24
+- bump: minor
+  changes:
+    added:
+    - Massachusetts State income tax policy parameters.
+  date: 2022-06-08 06:51:11
+- bump: minor
+  changes:
+    changed:
+    - OpenFisca-US bumped to 0.72.2.
+    - Breakdown parameters are now borderless.
+  date: 2022-06-08 10:44:44
+- bump: patch
+  changes:
+    changed:
+    - OpenFisca-US bumped to 0.72.3
+  date: 2022-06-08 10:52:07
+- bump: minor
+  changes:
+    added:
+    - US population impact page now fully visible.
+    - US state selector includes US and MA.
+  date: 2022-06-09 14:30:58
+- bump: minor
+  changes:
     removed:
-    - An unused CDCC abolition parameter.
-  date: 2022-06-16 16:28:07
-- bump: patch
-  changes:
-    changed:
-    - Replace `phaseout` with `phase_out` or `phase-out` in variables and text.
-    - Reorganize variables into their own files.
-  date: 2022-06-16 16:58:09
+    - US population impact page.
+  date: 2022-06-09 17:08:58
 - bump: patch
   changes:
     fixed:
-    - Payroll taxable wages deduct pension contributions rather than adding them.
-    - Market income includes missing capital gains, farm, illicit and rental income.
-  date: 2022-06-17 16:36:16
+    - Fixed bugs causing the US and UK packages to not handle structural reforms.
+  date: 2022-06-10 14:33:04
 - bump: minor
   changes:
     added:
-    - Basic income phase-out parameters, logic and testing.
-  date: 2022-06-19 16:59:40
-- bump: patch
-  changes:
-    changed:
-    - Reorganize tax credits to skip the refundable/non-refundable distinction.
-    - Reorganize parameters to layer under gov.
-  date: 2022-06-20 13:24:54
+    - All country reform endpoints now support the "reform" parameter, which takes
+      an OpenFisca Python reform.
+  date: 2022-06-13 10:44:10
 - bump: minor
   changes:
     added:
-    - UT taxpayer credit maximum.
-  date: 2022-06-20 22:23:30
+    - Abolish switches for main taxes and benefits in the US.
+    - Basic income parameters and flat taxes for the US.
+    - More icons and organization to the policy parameter menus.
+  date: 2022-06-17 14:42:52
 - bump: minor
   changes:
     added:
-    - UT total income.
-    - UT taxable income
-  date: 2022-06-21 22:53:46
-- bump: minor
-  changes:
-    added:
-    - UT taxpayer credit reduction.
-  date: 2022-06-21 23:13:24
-- bump: minor
-  changes:
-    added:
-    - UT taxpayer credit.
-  date: 2022-06-21 23:38:30
-- bump: minor
-  changes:
-    added:
-    - UT tax before credit
-    - UT tax rate
-  date: 2022-06-21 23:47:14
-- bump: patch
-  changes:
+    - MA income tax breakdown.
     fixed:
-    - Bugs causing basic income to be NaN.
-  date: 2022-06-22 01:51:51
-- bump: patch
-  changes:
-    fixed:
-    - Tabs in parameter files removed.
-  date: 2022-06-22 03:04:03
-- bump: patch
-  changes:
-    fixed:
-    - Remove tab again.
-  date: 2022-06-22 03:55:59
-- bump: patch
-  changes:
-    fixed:
-    - Last lingering tab.
-  date: 2022-06-22 04:17:18
-- bump: patch
-  changes:
-    fixed:
-    - Really last tab.
-  date: 2022-06-22 04:36:30
-- bump: minor
-  changes:
-    added:
-    - Metadata for the standard and aged/blind deduction.
-  date: 2022-06-22 17:42:20
-- bump: minor
-  changes:
-    added:
-    - Filer and adult dependent credits for Rep Tlaib's End Child Poverty Act.
-  date: 2022-06-22 19:28:43
-- bump: patch
-  changes:
-    added:
-    - Metadata for the standard and aged/blind deduction.
-    changed:
-    - OpenFisca-Tools bumped to 0.12.0.
-  date: 2022-06-22 20:34:31
-- bump: patch
-  changes:
-    changed:
-    - Shortened End Child Poverty Act parameter names.
-  date: 2022-06-22 21:48:02
-- bump: patch
-  changes:
-    changed:
-    - Move End Child Poverty Act credits from benefits to refundable credits.
-  date: 2022-06-22 23:37:55
-- bump: patch
-  changes:
-    changed:
-    - Simplify SNAP deduction formulas.
-  date: 2022-06-23 05:01:22
+    - Bugs causing the household impact page to crash when removing people.
+  date: 2022-06-20 04:40:27
 - bump: minor
   changes:
     changed:
-    - Add structure for Indiana AGI.
-  date: 2022-06-24 17:49:18
-- bump: patch
-  changes:
-    added:
-    - Units for the ECPA variables.
-  date: 2022-06-25 20:50:40
-- bump: patch
-  changes:
-    fixed:
-    - Bugs causing the Additional CTC amount to be too large.
-  date: 2022-06-25 23:09:20
-- bump: patch
-  changes:
-    fixed:
-    - EITC parameters for childless tax units in 2021.
-  date: 2022-06-26 05:11:41
-- bump: patch
-  changes:
-    fixed:
-    - EITC phase-out thresholds for filers with children corrected to be $10 larger
-      for some years.
-  date: 2022-06-26 20:58:23
-- bump: patch
-  changes:
-    fixed:
-    - A bug causing excess MA Part B deductions to apply to Part A income.
-  date: 2022-06-27 03:00:42
+    - OpenFisca-US bumped to 0.81.1.
+  date: 2022-06-22 02:47:19
 - bump: minor
   changes:
     added:
-    - Recovery Rebate Credit.
-  date: 2022-06-27 05:43:48
-- bump: patch
+    - US impact page with a disclaimer.
+    changed:
+    - OpenFisca-US bumped to 0.83.0.
+  date: 2022-06-22 20:39:33
+- bump: minor
   changes:
     added:
-    - Uprated parameters for the standard deduction additions in 2020 onwards.
-    - References for the RRC parameters.
-  date: 2022-06-27 20:18:27
+    - US End Child Poverty Act parameters.
+  date: 2022-06-22 20:55:08
 - bump: patch
   changes:
     changed:
-    - Tests now don't stop after the first failure.
-  date: 2022-06-29 01:00:28
-- bump: patch
-  changes:
-    fixed:
-    - AMT income formula now uses a legislative source.
-  date: 2022-06-29 03:38:34
+    - Use shorter End Child Poverty Act parameter names.
+  date: 2022-06-22 22:14:06
 - bump: minor
   changes:
     added:
-    - MA Senior Circuit Breaker credit.
-  date: 2022-07-02 06:09:09
-- bump: patch
-  changes:
+    - Basic income phase-outs in the US.
+    - Basic income in the accounting table.
     fixed:
-    - Fixed the CTC formula in 2021 (only) to correctly apply the income-based reduction.
-  date: 2022-07-03 21:47:43
+    - A bug causing household baseline reforms to not calculate.
+  date: 2022-06-22 23:29:25
 - bump: minor
   changes:
     added:
-    - MO Income Tax before credits.
-    - Parameters for MO Tax Schedule.
-  date: 2022-07-06 20:08:08
-- bump: minor
-  changes:
-    added:
-    - Washington Working Families Tax Credit.
-    - EITC AGI limit variable.
-  date: 2022-07-07 07:15:06
-- bump: patch
-  changes:
-    fixed:
-    - Add resource test to SSI State Supplement.
-  date: 2022-07-07 17:09:07
-- bump: patch
-  changes:
-    added:
-    - Notebook for Massachusetts Senior Circuit Breaker Credit.
-    fixed:
-    - Include non-tax-exempt Social Security benefits in income for Massachusetts
-      Senior Circuit Breaker Credit income definition.
-  date: 2022-07-07 17:39:36
-- bump: minor
-  changes:
-    added:
-    - MA COVID-19 Essential Employee Premium Pay Program.
-  date: 2022-07-08 12:26:04
-- bump: patch
-  changes:
+    - SNAP dependent care deduction repeal switch.
     changed:
-    - Impute integer ages in CPS from 80 to 84.
-  date: 2022-07-10 10:45:23
-- bump: minor
-  changes:
-    added:
-    - MA dependent care tax credit.
-  date: 2022-07-10 16:05:38
-- bump: minor
-  changes:
-    added:
-    - Washington capital gains tax.
-  date: 2022-07-10 16:19:30
-- bump: patch
-  changes:
-    fixed:
-    - Charitable deduction available for MA taxable income calculations.
-  date: 2022-07-10 16:25:24
-- bump: patch
-  changes:
-    fixed:
-    - Separate WA WFTC parameter labels.
-  date: 2022-07-10 19:04:21
-- bump: patch
-  changes:
-    fixed:
-    - Includes TANF as a categorical eligibility program for free school meals.
-  date: 2022-07-11 05:30:45
-- bump: patch
-  changes:
-    added:
-    - Validation against TAXSIM using the CPS tax unit set.
-    - Validation results on the documentation.
-  date: 2022-07-12 11:00:29
-- bump: minor
-  changes:
-    added:
-    - IN exemptions.
-  date: 2022-07-12 15:03:47
-- bump: minor
-  changes:
-    added:
-    - MD aged, blind exemptions
-    - MD personal Exemptions
-    - MD income tax rates
-    - MD placeholders for deductions, md_agi
-  date: 2022-07-14 01:03:39
-- bump: minor
-  changes:
-    added:
-    - ZIP code random generation by population sizes.
-    - ZIP code -> county -> State mapping (~400kB).
-  date: 2022-07-14 14:33:19
-- bump: minor
-  changes:
-    added:
-    - MD Standard deduction
-  date: 2022-07-15 05:42:48
-- bump: minor
-  changes:
-    added:
-    - MD State income tax EITC.
-  date: 2022-07-15 07:04:51
-- bump: minor
-  changes:
-    added:
-    - MD CDCC.
-    - Notebook for federal and MD CDCCs.
-    fixed:
-    - Phase out federal CDCC in steps.
-  date: 2022-07-15 07:47:31
-- bump: minor
-  changes:
-    added:
-    - Maryland adjusted gross income, with the dependent care subtraction.
-  date: 2022-07-15 18:49:51
-- bump: patch
-  changes:
-    fixed:
-    - Avoid double-counting CDCC when it was refundable in 2021.
-  date: 2022-07-15 21:50:01
-- bump: minor
-  changes:
-    added:
-    - MD CTC
-  date: 2022-07-16 03:04:11
-- bump: patch
-  changes:
-    changed:
-    - Change MA dependent care credit from a scale parameter to an amount/cap structure.
-  date: 2022-07-16 04:19:02
-- bump: minor
-  changes:
-    added:
-    - MD local income tax rates.
-  date: 2022-07-16 11:16:19
-- bump: patch
-  changes:
-    fixed:
-    - Click dependency limited to >=8.0.0.
-  date: 2022-07-16 12:30:48
-- bump: patch
-  changes:
-    added:
-    - Changelog entry file functionality.
-    - Linecheck dev dependency.
-  date: 2022-07-16 14:06:12
-- bump: minor
-  changes:
-    added:
-    - Net investment income tax and other taxes to tax before refundable credits.
-  date: 2022-07-17 21:38:27
-- bump: minor
-  changes:
-    added:
-    - California renters tax credit
-  date: 2022-07-18 02:28:29
-- bump: minor
-  changes:
-    added:
-    - Non-qualified dividend income.
-    fixed:
-    - Dividend income split into qualified and non-qualified correctly.
-  date: 2022-07-18 02:56:11
-- bump: patch
-  changes:
-    added:
-    - MD CTC notebook
-  date: 2022-07-18 20:44:57
-- bump: minor
-  changes:
-    added:
-    - Maryland refundable and non-refundable CDCC.
-  date: 2022-07-18 22:14:59
-- bump: minor
-  changes:
-    added:
-    - Maryland Poverty Line Credit.
-  date: 2022-07-18 23:24:42
-- bump: minor
-  changes:
-    added:
-    - Maryland Earned Income Tax Credit.
-    - Notebooks for Maryland tax programs.
-  date: 2022-07-19 14:26:52
-- bump: minor
-  changes:
-    added:
-    - MD income tax to State income tax.
-  date: 2022-07-20 11:57:02
-- bump: minor
-  changes:
-    added:
-    - Caching of second-lowest silver plan cost in the CPS microdata.
-  date: 2022-07-20 11:58:26
+    - Rounding in household table.
+  date: 2022-06-23 06:32:47
 - bump: minor
   changes:
     changed:
-    - Separate MD standard deduction parameters by filing status.
-    - Add MD CTC to list of refundable credits.
-    - Add MD notebooks to documentation table of contents.
-  date: 2022-07-20 19:59:29
+    - State taxes no longer simulated on US-wide impacts.
+  date: 2022-06-25 05:49:55
+- bump: minor
+  changes:
+    added:
+    - Adult dependents can now be added to the household page.
+    fixed:
+    - Spacing issues on the policy overview.
+  date: 2022-06-25 18:34:05
 - bump: patch
   changes:
     fixed:
-    - Breakdown for two Maryland parameters.
-  date: 2022-07-20 20:41:23
-- bump: minor
-  changes:
-    added:
-    - IN deductions.
-  date: 2022-07-21 19:28:21
-- bump: patch
-  changes:
-    changed:
-    - Moved geographical Medicaid calculation parameters to an on-demand folder.
-  date: 2022-07-22 08:25:43
-- bump: patch
-  changes:
-    added:
-    - Test that parameter files do not contain tabs with informative error messages.
-  date: 2022-07-22 10:11:10
-- bump: minor
-  changes:
-    added:
-    - IN Add-Backs.
-  date: 2022-07-22 15:07:46
-- bump: minor
-  changes:
-    added:
-    - Performance improvements through partially-executed formulas from OpenFisca-Tools.
-  date: 2022-07-22 20:16:52
+    - Bugs with adult dependents.
+  date: 2022-06-25 21:04:22
 - bump: patch
   changes:
     fixed:
-    - SNAP standard deductions and references.
-    - Count all non-shelter deductions in SNAP net income before shelter.
-  date: 2022-07-22 23:39:14
-- bump: minor
-  changes:
-    added:
-    - California Young Child Tax Credit.
-  date: 2022-07-22 23:54:11
-- bump: minor
-  changes:
-    added:
-    - IN adjusted gross income tax
-  date: 2022-07-24 20:28:18
-- bump: patch
-  changes:
-    changed:
-    - Split Maryland tax rates and personal exemptions by each filing status.
-  date: 2022-07-25 20:46:29
-- bump: minor
-  changes:
-    added:
-    - Indiana other taxes.
-  date: 2022-07-25 23:07:53
-- bump: minor
-  changes:
-    added:
-    - IRS capital gains parameters for FY20-22.
-  date: 2022-07-26 16:06:49
-- bump: minor
-  changes:
-    added:
-    - NY taxable income variable.
-  date: 2022-07-29 15:32:28
-- bump: minor
-  changes:
-    fixed:
-    - Dividend logic correctly handles qualified/non-qualified dividends.
-  date: 2022-08-02 10:35:25
-- bump: minor
-  changes:
-    added:
-    - Federal electric vehicle credits under current law and the Inflation Reduction
-      Act.
-  date: 2022-08-03 19:19:26
-- bump: patch
-  changes:
-    added:
-    - Missing PolicyEngine metadata for electric vehicle variables and parameters.
-  date: 2022-08-03 19:38:51
-- bump: minor
-  changes:
-    added:
-    - California standard deduction.
-  date: 2022-08-04 14:53:40
-- bump: minor
-  changes:
-    added:
-    - Re-implementation of capital gains law.
-  date: 2022-08-05 12:29:00
-- bump: patch
-  changes:
-    changed:
-    - Bump openfisca-tools to 0.13.3.
-  date: 2022-08-05 16:24:00
+    - AGI removed from the household accounting table.
+    removed:
+    - Help button, temporarily.
+  date: 2022-06-28 17:35:16
 - bump: patch
   changes:
     fixed:
-    - Incorrect head of household capital gains thresholds.
-  date: 2022-08-07 16:48:06
+    - Parameters silent fail rather than show a message.
+  date: 2022-07-03 04:26:48
 - bump: minor
   changes:
     added:
-    - NY income tax before credits (without high-income adjustment).
-  date: 2022-08-09 11:08:16
-- bump: minor
-  changes:
-    added:
-    - NY AGI adjustments.
-  date: 2022-08-09 12:06:14
-- bump: minor
-  changes:
-    fixed:
-    - Refactored pension income to exclude IRA calculations.
-  date: 2022-08-09 13:21:28
-- bump: patch
-  changes:
-    fixed:
-    - A bug causing qualified dividends to not be counted as 'net capital gain'.
-  date: 2022-08-09 15:41:14
-- bump: minor
-  changes:
-    added:
-    - Residential energy efficient property credit.
-  date: 2022-08-09 16:00:40
-- bump: minor
-  changes:
-    added:
-    - Logic pathway to NY income tax from income.
-  date: 2022-08-10 12:47:25
-- bump: minor
-  changes:
-    added:
-    - Taxable income deductions for NY State tax.
-  date: 2022-08-10 12:48:17
-- bump: minor
-  changes:
-    added:
-    - SSTB business variable.
-  date: 2022-08-10 20:37:56
-- bump: patch
-  changes:
-    changed:
-    - Adjust logic for Washington Working Families Tax Credit based on recent legislation.
-  date: 2022-08-12 13:45:51
-- bump: patch
-  changes:
-    fixed:
-    - Use Mac version of taxsim.
-  date: 2022-08-12 17:54:09
-- bump: patch
-  changes:
-    changed:
-    - Formatting improvements in documentation.
-  date: 2022-08-13 01:27:00
-- bump: minor
-  changes:
-    added:
-    - Nonbusiness energy property credit.
-  date: 2022-08-17 05:44:08
-- bump: patch
-  changes:
-    added:
-    - 2022 value of EITC joint bonus for couples without children.
-  date: 2022-08-17 15:46:46
-- bump: patch
-  changes:
-    fixed:
-    - Don't reduce CTC by more than the maximum in 2021.
-  date: 2022-08-18 09:15:19
-- bump: minor
-  changes:
-    added:
-    - Pennsylvania income tax before forgiveness.
-  date: 2022-08-18 17:24:10
-- bump: minor
-  changes:
-    added:
-    - Energy efficient home improvements credit post-Inflation Reduction Act.
-  date: 2022-08-23 04:58:33
-- bump: minor
-  changes:
-    added:
-    - High Efficiency Electric Home Rebate Program.
-  date: 2022-08-25 00:48:25
+    - Optional age impact chart for population impacts.
+  date: 2022-07-03 18:13:33
 - bump: minor
   changes:
     changed:
-    - Updated Residential Clean Energy Credit for the Inflation Reduction Act.
-  date: 2022-08-27 17:41:38
+    - Mobile responsiveness and usability improved.
+  date: 2022-07-03 21:51:22
+- bump: minor
+  changes:
+    added:
+    - EITC eligibility parameters.
+  date: 2022-07-06 06:19:51
+- bump: patch
+  changes:
+    fixed:
+    - Style issues with the footer.
+  date: 2022-07-08 13:32:22
+- bump: minor
+  changes:
+    added:
+    - Frontend tooling & dependencies updated! These include react-router and vite.
+      Minor stylistic changes (scrolling on about/FAQ page).
+  date: 2022-07-08 18:32:22
+- bump: patch
+  changes:
+    fixed:
+    - Marital status now functions correctly.
+  date: 2022-07-09 19:19:32
+- bump: patch
+  changes:
+    fixed:
+    - Styling issues with Tailwind.
+  date: 2022-07-09 21:02:41
+- bump: patch
+  changes:
+    fixed:
+    - Default package manager (npm -> pnpm).
+  date: 2022-07-10 14:02:41
+- bump: patch
+  changes:
+    fixed:
+    - Persist marital status in US household page.
+  date: 2022-07-13 01:36:55
+- bump: patch
+  changes:
+    added:
+    - CGO sponsorship labels to the policy page.
+  date: 2022-07-13 17:41:12
+- bump: minor
+  changes:
+    added:
+    - Massachusetts parameters for Senior Circuit Breaker and Dependent Care Credits.
+    - Washington capital gains and Working Families Tax Credit parameters and population
+      impact drop-down.
+  date: 2022-07-13 20:27:44
+- bump: minor
+  changes:
+    added:
+    - Massachusetts dependent care credit parameters.
+  date: 2022-07-16 05:56:49
+- bump: patch
+  changes:
+    fixed:
+    - Undo openfisca-us update, which caused performance issues.
+  date: 2022-07-16 19:37:53
+- bump: patch
+  changes:
+    fixed:
+    - Removed large parameters and variables causing slowdowns.
+  date: 2022-07-18 15:40:47
+- bump: minor
+  changes:
+    added:
+    - Massachusetts dependent care credit parameters.
+  date: 2022-07-18 21:04:48
+- bump: minor
+  changes:
+    added:
+    - Maryland parameters.
+  date: 2022-07-20 21:49:14
+- bump: minor
+  changes:
+    added:
+    - MD income tax breakdowns.
+    fixed:
+    - State code switch stays selected.
+  date: 2022-07-21 09:50:20
+- bump: patch
+  changes:
+    fixed:
+    - A bug causing baseline-editing policies to show as no-reform.
+  date: 2022-07-21 18:09:44
 - bump: minor
   changes:
     changed:
-    - Apply energy efficient home improvement tax credits to post-rebate expenditures.
-  date: 2022-08-27 20:34:55
+    - OpenFisca-US bumped to 0.111.0.
+  date: 2022-07-22 18:22:23
 - bump: minor
   changes:
     added:
-    - AGI limit for basic income.
-    - Dollar-range basic income phase-out option.
-  date: 2022-08-31 23:58:28
-- bump: patch
-  changes:
-    fixed:
-    - Breakdown format in basic income parameters.
-  date: 2022-09-01 00:47:34
-- bump: minor
-  changes:
-    added:
-    - NY CDCC.
-  date: 2022-09-01 11:46:59
-- bump: minor
-  changes:
-    changed:
-    - Apply residential efficiency and electrifaction rebates to perfromance based
-      retrofit expenditures.
-  date: 2022-09-02 00:53:29
-- bump: minor
-  changes:
-    added:
-    - NY supplemental income tax.
-  date: 2022-09-02 13:00:55
-- bump: minor
-  changes:
-    added:
-    - NY Supplemental EITC.
-  date: 2022-09-02 14:29:45
-- bump: minor
-  changes:
-    added:
-    - NY CTC.
-  date: 2022-09-02 20:09:49
-- bump: minor
-  changes:
-    added:
-    - Oregon EITC match.
-  date: 2022-09-02 20:26:10
-- bump: minor
-  changes:
-    added:
-    - NY real property tax credit.
-  date: 2022-09-03 09:17:20
-- bump: minor
-  changes:
-    added:
-    - NY college tuition credit and itemized deduction.
-  date: 2022-09-03 09:33:08
-- bump: minor
-  changes:
-    changed:
-    - Made the electric vehicle credit under the Inflation Reduction Act into current
-      policy.
-    - Revised text of IRA rebate and credit parameters and variables.
-  date: 2022-09-03 20:54:46
+    - Scale parameter component.
+  date: 2022-07-25 11:16:32
 - bump: patch
   changes:
     changed:
-    - Refer consistently to the new name, the "Energy Efficient Home Improvement Tax
-      Credit".
-  date: 2022-09-04 06:22:00
-- bump: minor
-  changes:
-    added:
-    - Calculations for the tax forgiveness rate in Pennsylvania
-  date: 2022-09-04 19:09:21
-- bump: minor
-  changes:
-    added:
-    - Historical parameters to NY college tuition credit.
-    - Year period to energy efficient home improvement credit parameters.
-  date: 2022-09-04 19:15:21
-- bump: minor
-  changes:
-    added:
-    - NY State income tax.
-  date: 2022-09-05 16:50:53
-- bump: patch
-  changes:
-    fixed:
-    - Use manual eligibility in basic income eligibility.
-  date: 2022-09-05 18:14:55
-- bump: patch
-  changes:
-    added:
-    - NY tax-benefit page to the documentation.
-    fixed:
-    - NY college tuition and CDCC credits added as refundable.
-  date: 2022-09-06 10:51:59
-- bump: patch
-  changes:
-    added:
-    - NY tax documentation page.
-    - NY documentation pages to table of contents.
-  date: 2022-09-06 15:31:51
+    - Update Maryland tax and personal exemption parameters to use per-filing-status
+      values.
+  date: 2022-07-26 16:08:38
 - bump: minor
   changes:
     fixed:
-    - Re-implemented NY supplemental tax to fix mistaken cliffs.
-  date: 2022-09-07 20:29:32
-- bump: minor
-  changes:
-    added:
-    - Oregon personal exemption credit.
-  date: 2022-09-07 23:07:57
-- bump: minor
-  changes:
-    added:
-    - Pennsylvania use tax
-  date: 2022-09-09 15:39:41
-- bump: minor
-  changes:
-    added:
-    - OR kicker credit.
-  date: 2022-09-10 00:00:24
-- bump: minor
-  changes:
-    added:
-    - Variable computing federal tax liability without SALT.
-  date: 2022-09-12 22:06:22
-- bump: minor
-  changes:
-    added:
-    - Add MO agi, subtractions (mo_qualified_health_insurance_premiums)
-    - Add MO taxable income and deductions
-    - Add variables required for MO Property Tax Credit demographic tests
-  date: 2022-09-12 22:24:35
-- bump: minor
-  changes:
-    added:
-    - OR income tax before credits.
-  date: 2022-09-13 05:13:03
-- bump: minor
-  changes:
-    added:
-    - Basic income taxability.
-  date: 2022-09-13 19:33:43
+    - Bugs causing the mobile UI to not space items correctly.
+  date: 2022-07-27 09:06:13
 - bump: patch
   changes:
     fixed:
-    - Basic income taxability interaction with other phase-outs.
-  date: 2022-09-14 12:41:59
-- bump: patch
-  changes:
-    added:
-    - Federal income tax documentation page.
-  date: 2022-09-16 00:15:33
+    - Bug causing scale parameters to mishandle infinities.
+  date: 2022-07-27 11:42:49
 - bump: minor
   changes:
     added:
-    - Add taxsim comparisons to MO state tax system.
-    - Add notebook documentation showcasing tax/tax and benefits systems.
-    - Disabled mo_property_tax_credit until output schedule can be modeled.
-  date: 2022-09-16 03:02:08
-- bump: minor
-  changes:
-    added:
-    - PTC deduction switch for the UBI Center flat tax.
-  date: 2022-09-16 15:22:22
-- bump: minor
-  changes:
-    added:
-    - Federal poverty guideline-based basic income element.
-    changed:
-    - Made all basic income variables tax unit-level.
-  date: 2022-09-18 16:29:13
-- bump: minor
-  changes:
-    added:
-    - California tax exemptions
-  date: 2022-09-20 02:29:55
-- bump: patch
-  changes:
-    added:
-    - Budgetary impacts of some NY and PA programs to documentation notebooks.
-  date: 2022-09-20 05:11:32
-- bump: minor
-  changes:
-    added:
-    - Oregon standard deduction.
-  date: 2022-09-20 17:04:16
-- bump: minor
-  changes:
-    added:
-    - California income tax rates.
-  date: 2022-09-21 01:52:55
-- bump: minor
-  changes:
-    added:
-    - 2021 ASEC.
-  date: 2022-09-21 20:07:25
-- bump: minor
-  changes:
-    added:
-    - Flat per-person UBI amount.
-  date: 2022-09-27 02:30:33
+    - UK TV licence fee parameters.
+    fixed:
+    - Bug preventing labels for scale components being shown.
+  date: 2022-07-27 12:18:39
 - bump: patch
   changes:
     fixed:
-    - County selection now is vectorised, cutting runtimes by 20%.
-  date: 2022-09-27 22:17:57
+    - Fixes a bug which caused long reforms to breach character URL limits.
+  date: 2022-07-27 15:12:53
 - bump: minor
   changes:
     added:
-    - Maryland Child Alliance EITC abolition switches.
-  date: 2022-10-03 18:29:29
-- bump: minor
-  changes:
-    added:
-    - California mental health services tax
-  date: 2022-10-03 22:56:42
-- bump: minor
-  changes:
-    added:
-    - Oregon taxable income deductions.
-  date: 2022-10-07 03:01:19
-- bump: minor
-  changes:
-    added:
-    - Add MO state tax integration tests, illustrating different calculation methods.
-  date: 2022-10-07 22:41:57
-- bump: minor
-  changes:
-    added:
-    - California Child and Dependent Care Expenses Credit.
-  date: 2022-10-08 19:33:26
-- bump: minor
-  changes:
-    added:
-    - Oregon federal tax liability income subtraction.
-  date: 2022-10-10 19:12:57
-- bump: minor
-  changes:
-    added:
-    - California use tax.
-  date: 2022-10-10 20:55:47
-- bump: minor
-  changes:
-    added:
-    - Total US population.
-  date: 2022-10-13 02:52:46
-- bump: minor
-  changes:
-    added:
-    - Changed 2021 to 2020 in MD refundable/non-refundable tax credit parameters
-  date: 2022-10-13 03:39:19
-- bump: minor
-  changes:
-    added:
-    - Oregon tax after credits
-  date: 2022-10-14 22:12:28
-- bump: patch
-  changes:
-    changed:
-    - Text and PolicyEngine names for some OR and PA parameters.
-  date: 2022-10-15 22:44:42
-- bump: patch
-  changes:
-    added:
-    - Change logic for MO tax system to calculate AGI, qualified_health_insurance_premiums,
-      taxable_income at person level.
-  date: 2022-10-16 15:58:42
+    - Washington Working Families Tax Credit parameters.
+  date: 2022-07-28 04:06:21
 - bump: patch
   changes:
     fixed:
-    - Bug in MD EITC where chlidless_max parameter was called instead of childless.max_amount.
-  date: 2022-10-17 23:08:54
+    - A bug causing parameter scales to be uneditable above $1k.
+  date: 2022-07-28 18:15:52
+- bump: patch
+  changes:
+    fixed:
+    - A bug causing baseline household calculations to fail.
+  date: 2022-07-30 08:43:01
+- bump: patch
+  changes:
+    fixed:
+    - TV licence evasion and TV ownership are fixed in household variation analyses.
+  date: 2022-07-31 23:01:19
+- bump: minor
+  changes:
+    added:
+    - Electric vehicle credit parameters and inputs under current law and the Inflation
+      Reduction Act.
+  date: 2022-08-04 14:23:39
+- bump: minor
+  changes:
+    added:
+    - US blindness input.
+  date: 2022-08-07 15:23:43
 - bump: minor
   changes:
     changed:
-    - Moved to PolicyEngine Core.
-  date: 2022-10-20 13:13:35
+    - Refactored server package, adding documentation, stability and organisation.
+  date: 2022-08-07 19:58:17
+- bump: minor
+  changes:
+    fixed:
+    - Minor bugs from the refactor.
+  date: 2022-08-07 20:18:53
 - bump: patch
   changes:
     fixed:
-    - GH actions now run on Python 3.9.
-  date: 2022-10-20 13:40:02
+    - Erroneous import from tkinter that breaks GCP machines, but not GH machines.
+  date: 2022-08-07 20:32:35
+- bump: patch
+  changes:
+    changed:
+    - GCP memory size bumped.
+  date: 2022-08-07 21:11:03
 - bump: patch
   changes:
     fixed:
-    - Charts in documentation render.
-  date: 2022-10-22 18:25:44
+    - Deployment issues.
+  date: 2022-08-08 13:00:04
+- bump: patch
+  changes:
+    changed:
+    - App memory usage to 6GB.
+  date: 2022-08-08 14:50:10
+- bump: patch
+  changes:
+    fixed:
+    - Enum parameters now function.
+  date: 2022-08-08 16:07:45
+- bump: patch
+  changes:
+    fixed:
+    - Bug causing state-specific analysis to have extra budgetary impacts.
+  date: 2022-08-09 22:47:18
+- bump: minor
+  changes:
+    fixed:
+    - Bug causing marital status changes in the US to not refresh the net income table.
+  date: 2022-08-10 15:26:27
+- bump: patch
+  changes:
+    fixed:
+    - ETA for long endpoints rounded to the nearest 15 seconds.
+  date: 2022-08-11 08:30:02
+- bump: patch
+  changes:
+    changed:
+    - Bump OpenFisca US to capture updates to Washington's Working Families Tax Credit.
+  date: 2022-08-12 14:28:56
+- bump: patch
+  changes:
+    fixed:
+    - Incorrect ETA rounding on population impact page.
+  date: 2022-08-12 15:22:27
 - bump: minor
   changes:
     added:
-    - IRS parameters for 2023 tax year.
-    - Some missing IRS parameters for 2020-2022 tax years.
-  date: 2022-10-25 17:49:04
+    - US states without income taxes.
+  date: 2022-08-14 04:44:51
 - bump: minor
   changes:
     added:
-    - AMT parameters for 2020-2022.
-  date: 2022-10-29 03:44:55
+    - Policy logo and Beta block are now centered.
+  date: 2022-08-18 18:38:09
+- bump: minor
+  changes:
+    added:
+    - Overview shading was shifted up and to the right.
+  date: 2022-08-19 17:31:37
+- bump: patch
+  changes:
+    fixed:
+    - Update Facebook page link.
+  date: 2022-08-20 14:27:33
+- bump: minor
+  changes:
+    removed:
+    - Bullet graphic in policy cart.
+  date: 2022-08-23 05:08:10
+- bump: minor
+  changes:
+    added:
+    - Removed the About Your Household header.
+  date: 2022-08-23 18:49:45
+- bump: minor
+  changes:
+    added:
+    - Adjusted spacing in state code drop-down.
+  date: 2022-08-23 21:56:21
+- bump: minor
+  changes:
+    added:
+    - Added bottom padding to the Policy and Your Household menu.
+  date: 2022-08-24 21:32:36
+- bump: patch
+  changes:
+    changed:
+    - Bump OpenFisca UK for personal allowance fix.
+  date: 2022-08-25 17:57:00
+- bump: minor
+  changes:
+    added:
+    - Centering pagination in policy cart.
+  date: 2022-08-26 03:48:57
+- bump: patch
+  changes:
+    fixed:
+    - Bug where abolishing the UK marriage allowance income condition crashed the
+      app.
+  date: 2022-08-26 06:43:45
+- bump: patch
+  changes:
+    fixed:
+    - Scottish rates menu broke.
+  date: 2022-08-26 22:20:58
+- bump: minor
+  changes:
+    added:
+    - __init__ Python files.
+    - GH pages/JB documentation starter.
+    - Logic to handle custom-named parameters in scales.
+  date: 2022-08-28 16:13:08
+- bump: minor
+  changes:
+    added:
+    - Recent blog posts to the home page.
+    fixed:
+    - AutoUBI in the UK.
+  date: 2022-08-30 09:32:44
+- bump: patch
+  changes:
+    fixed:
+    - Bug causing scale parameters to fail.
+  date: 2022-08-30 10:39:22
+- bump: minor
+  changes:
+    fixed:
+    - A bug causing region-specific simulations to be erroneously cached as the general
+      baseline.
+  date: 2022-08-31 13:46:35
+- bump: minor
+  changes:
+    added:
+    - Basic income parameters for AGI limit and dollar-defined phase-out range.
+  date: 2022-09-01 02:41:30
+- bump: patch
+  changes:
+    fixed:
+    - Baseline policy changes now force recomputation of household situations.
+  date: 2022-09-01 11:45:43
+- bump: patch
+  changes:
+    fixed:
+    - Handling of boolean switches in household earnings charts.
+  date: 2022-09-01 15:43:52
+- bump: patch
+  changes:
+    added:
+    - Time travel feature to PolicyEngine US.
+    fixed:
+    - Issue causing failures on basic income policies.
+  date: 2022-09-05 18:32:19
+- bump: minor
+  changes:
+    added:
+    - NY parameters to PolicyEngine US.
+  date: 2022-09-06 12:33:28
+- bump: patch
+  changes:
+    added:
+    - NY logo.
+  date: 2022-09-06 13:35:42
+- bump: patch
+  changes:
+    fixed:
+    - A bug causing history-dependent parameters (NY CTC, pre-TCJA) to fail.
+  date: 2022-09-06 14:03:45
+- bump: minor
+  changes:
+    added:
+    - NY region for population impacts.
+  date: 2022-09-06 16:03:53
+- bump: patch
+  changes:
+    added:
+    - NY to population drop-down.
+  date: 2022-09-06 16:20:28
+- bump: patch
+  changes:
+    fixed:
+    - Bug causing NY CTC to be 2x expected.
+  date: 2022-09-07 09:15:32
+- bump: patch
+  changes:
+    fixed:
+    - Bug in threshold time projection.
+  date: 2022-09-07 10:27:00
+- bump: minor
+  changes:
+    added:
+    - Ofgem (UK) energy price cap parameters.
+    changed:
+    - Organized UK parameters by department.
+  date: 2022-09-07 12:31:42
+- bump: patch
+  changes:
+    fixed:
+    - NY supplemental tax.
+  date: 2022-09-07 21:09:13
+- bump: patch
+  changes:
+    fixed:
+    - Fix bug in UK energy imputation (2 households have slightly negative consumption).
+  date: 2022-09-08 09:02:37
+- bump: patch
+  changes:
+    fixed:
+    - Exclude NI households from the energy price cap.
+  date: 2022-09-08 09:42:25
+- bump: minor
+  changes:
+    added:
+    - Time travel feature for US pages.
+  date: 2022-09-08 20:55:14
+- bump: minor
+  changes:
+    added:
+    - Axis handling for /calculate endpoints.
+  date: 2022-09-09 09:52:39
+- bump: minor
+  changes:
+    fixed:
+    - Bug in policy-dated scenarios after adding people.
+  date: 2022-09-09 20:50:49
+- bump: patch
+  changes:
+    changed:
+    - Add a 404 redirect to policyengine homepage when the url does not exist.
+  date: 2022-09-10 05:05:50
+- bump: minor
+  changes:
+    added:
+    - Household rebates and tax credits introduced by the Inflation Reduction Act.
+    removed:
+    - CDCC qualified dependent input.
+  date: 2022-09-10 06:07:16
+- bump: patch
+  changes:
+    fixed:
+    - URL and household variation charts with policy dates.
+  date: 2022-09-10 12:10:51
+- bump: patch
+  changes:
+    fixed:
+    - Removed duplicate entries for clean energy rebates.
+  date: 2022-09-10 16:16:31
+- bump: minor
+  changes:
+    changed:
+    - OpenFisca UK bumped.
+    - Mid-year uprating applies to variables as well as parameters.
+  date: 2022-09-11 15:58:13
+- bump: patch
+  changes:
+    added:
+    - TANF output to US benefits.
+  date: 2022-09-13 14:21:03
+- bump: patch
+  changes:
+    fixed:
+    - Baseline-only earnings charts show the correct hovercard.
+  date: 2022-09-13 15:08:48
+- bump: minor
+  changes:
+    added:
+    - US basic income taxability switch.
+  date: 2022-09-13 22:47:26
+- bump: minor
+  changes:
+    added:
+    - UX changes to api-explorer.
+  date: 2022-09-14 12:50:20
+- bump: patch
+  changes:
+    fixed:
+    - Bug causing taxable BI on the US impact to fail.
+  date: 2022-09-14 15:20:11
+- bump: minor
+  changes:
+    changed:
+    - EPG now baseline policy (UK).
+  date: 2022-09-14 20:03:52
+- bump: patch
+  changes:
+    fixed:
+    - Debugging mode off.
+  date: 2022-09-14 20:30:11
+- bump: minor
+  changes:
+    fixed:
+    - Handling of baseline reforms with baseline parameter tree copies.
+  date: 2022-09-15 11:10:04
+- bump: patch
+  changes:
+    fixed:
+    - Baseline reform simulation across UK and US pages.
+  date: 2022-09-16 08:27:05
+- bump: minor
+  changes:
+    added:
+    - US inputs for unemployment compensation, cash donations, and non-cash donations.
+    - Switch to abolish Social Security.
+    fixed:
+    - Time estimate on mobile.
+  date: 2022-09-17 03:32:26
+- bump: minor
+  changes:
+    added: FPG-based basic income element.
+  date: 2022-09-18 16:55:04
+- bump: minor
+  changes:
+    added:
+    - Custom reforms.
+  date: 2022-09-19 13:55:12
+- bump: minor
+  changes:
+    added:
+    - Pennsylvania income tax.
+  date: 2022-09-20 06:26:35
+- bump: minor
+  changes:
+    added:
+    - Gray Background, policy cart, and other UI fixes to Mobile.
+  date: 2022-09-20 22:11:22
+- bump: minor
+  changes:
+    added:
+    - Stamp duties to UK parameters.
+  date: 2022-09-21 11:22:54
+- bump: minor
+  changes:
+    changed:
+    - Update US model to 2021 CPS.
+  date: 2022-09-21 20:56:02
+- bump: minor
+  changes:
+    added:
+    - Word wrap to menu items.
+  date: 2022-09-22 03:31:07
+- bump: minor
+  changes:
+    fixed:
+    - Improved AutoUBI implementation and stability.
+    - Parameter renames happen faster and function correctly.
+  date: 2022-09-22 09:26:44
+- bump: patch
+  changes:
+    fixed:
+    - US pages.
+  date: 2022-09-22 10:10:02
+- bump: minor
+  changes:
+    added:
+    - PolicyEngine logo adjustment
+  date: 2022-09-23 02:58:41
+- bump: minor
+  changes:
+    added:
+    - Center policy cart items on Desktop.
+  date: 2022-09-26 17:08:59
+- bump: minor
+  changes:
+    added:
+    - Flat per-person UBI amount in US.
+  date: 2022-09-27 03:32:44
+- bump: patch
+  changes:
+    added:
+    - Bumped OpenFisca US to incorporate 20% speed improvements.
+  date: 2022-09-27 22:36:28
+- bump: minor
+  changes:
+    added:
+    - Maryland Child Alliance EITC reforms.
+    changed:
+    - Bumped UK/US packages.
+  date: 2022-10-04 12:09:56
+- bump: minor
+  changes:
+    added:
+    - Oregon income tax parameters and functionality.
+  date: 2022-10-19 16:03:28
+- bump: patch
+  changes:
+    fixed:
+    - Non-abolitions function correctly.
+  date: 2022-10-24 17:41:16
+- bump: minor
+  changes:
+    added:
+    - PTC exemption from income tax reforms.
+  date: 2022-10-31 12:44:19
+- bump: minor
+  changes:
+    added:
+    - Policy levers for CTC refundability and EITC.
+    fixed:
+    - Broken CDCC parameter.
+  date: 2022-11-08 18:17:40
+- bump: patch
+  changes:
+    fixed:
+    - Turned off debugging mode.
+  date: 2022-11-08 18:44:46

@@ -1,12 +1,19 @@
-# PolicyEngine US
+# PolicyEngine
 
-[![codecov](https://codecov.io/gh/PolicyEngine/policyengine-us/branch/master/graph/badge.svg?token=BLoCjCf5Qr)](https://codecov.io/gh/PolicyEngine/policyengine-us)
+This repository contains the core infrastructure for [policyengine.org](https://policyengine.org).
+Namely:
+* `policyengine`, a Python package which contains the server-side implementations, and
+* `policyengine-client`, a React library containing high-level components to build the client-side interface.
 
-OpenFisca US is a microsimulation model of the US state and federal tax and benefit system.
-It is built by [PolicyEngine](https://policyengine.org) and supported in part by the [Center for Growth and Opportunity](https://thecgo.org).
+## Development
 
-To install, run `pip install policyengine-us`.
+*NOTE:* requires Python 3.7 
 
-To contribute, please see the [wiki](https://github.com/PolicyEngine/policyengine-us/wiki).
+First, ensure you have `pnpm` installed: https://pnpm.io/installation.
 
-See our documentation with interactive notebooks at [openfisca.us](https://openfisca.us).
+Then, install using `make install`. Then, to debug the client, run `make debug-client`, or to debug the server, run `make debug-server`.
+
+If your changes involve the server, change `useLocalServer = false;` to `useLocalServer = true;` in `policyengine-client/src/countries/country.jsx`.
+Otherwise, change `usePolicyEngineOrgServer = false;` to `usePolicyEngineOrgServer = true;` in `policyengine-client/src/countries/country.jsx`.
+
+If you don't have access to the UK Family Resources Survey, you can still run the UK population-wide calculator on an anonymised version. To do that, instead of running `make debug-server`, run `UK_SYNTHETIC=1 make debug-server`

@@ -1,0 +1,1486 @@
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-21T19:19:29.413434'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-21T19:38:06.454018'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-21T19:51:16.584580'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-21T20:02:22.065086'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-21T20:03:18.064838'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-21T20:16:42.898143'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-21T20:34:40.618145'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-21T20:36:16.312017'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-21T20:37:20.430174'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-21T20:45:29.195731'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-21T20:48:27.890638'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-21T20:53:26.797150'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-21T20:55:16.588158'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T08:58:20.875265'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:02:16.229405'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T09:02:30.979547'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:05:51.462591'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:06:53.057025'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T09:06:53.062645'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:08:08.060790'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T09:08:08.065689'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:09:10.400633'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T09:09:10.408692'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:10:00.649885'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:12:54.541641'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:13:52.123287'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:15:18.373873'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:16:23.194375'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:17:02.968007'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T09:17:17.428238'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:18:50.382609'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T09:19:03.896895'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:20:25.805391'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T09:20:47.799105'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:23:48.106908'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T09:24:01.450367'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:25:11.355015'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T09:25:28.331914'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:26:15.374056'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T09:26:32.998586'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:30:33.660654'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T09:31:00.657256'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:32:57.873420'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T09:33:11.142914'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:55:39.955737'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T09:55:54.248367'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T09:59:07.728175'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T09:59:27.913931'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T10:05:10.698716'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T10:05:25.039585'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T10:07:18.281299'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T10:07:37.910111'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T10:09:32.439218'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T10:09:53.530684'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T10:10:46.240293'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T10:11:57.876465'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T10:12:21.676318'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T10:13:09.113573'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T10:13:28.082300'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T10:15:58.979341'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T10:16:12.712059'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T10:17:10.954473'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T10:17:24.992159'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T10:17:49.835787'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T10:18:06.253096'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T10:23:32.081956'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T10:24:25.912630'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T10:25:36.609288'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T10:26:31.213548'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T10:45:10.403216'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T10:46:00.252276'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T10:47:22.664561'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T10:48:22.443395'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T11:15:19.390355'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T11:15:47.479582'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T11:16:17.971883'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T11:16:40.222436'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T11:18:57.582716'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T11:19:29.509003'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T11:20:15.810453'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T11:20:32.409472'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T11:29:15.050568'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T11:29:31.206427'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T11:29:59.167903'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T11:30:22.087774'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T11:48:15.643930'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T11:48:30.298094'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T11:48:51.214495'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T11:49:06.973232'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T11:53:28.109244'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T11:54:02.205548'
+- endpoint: calculate
+  event: endpoint_call
+  time: 0.07613110542297363
+- endpoint: calculate
+  event: endpoint_call
+  time: 0.025849103927612305
+- endpoint: population_reform
+  event: endpoint_call
+  time: 0.00701904296875
+- endpoint: population_reform
+  error: The dataset file enhanced_frs (with year 2022) could not be found. Make sure
+    you have downloaded or built it using the `policyengine-core data` command.
+  event: task_error
+  full_trace: "Traceback (most recent call last):\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 181, in build_from_dataset\n    data = self.dataset.load(self.dataset_year)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/data/dataset.py\"\
+    , line 126, in load\n    return h5py.File(file, mode=mode)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/h5py/_hl/files.py\"\
+    , line 533, in __init__\n    fid = make_fid(name, mode, userblock_size, fapl,\
+    \ fcpl, swmr=swmr)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/h5py/_hl/files.py\"\
+    , line 226, in make_fid\n    fid = h5f.open(name, flags, fapl=fapl)\n  File \"\
+    h5py/_objects.pyx\", line 54, in h5py._objects.with_phil.wrapper\n  File \"h5py/_objects.pyx\"\
+    , line 55, in h5py._objects.with_phil.wrapper\n  File \"h5py/h5f.pyx\", line 106,\
+    \ in h5py.h5f.open\nFileNotFoundError: [Errno 2] Unable to open file (unable to\
+    \ open file: name = '/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_uk/data/storage/enhanced_frs_2022.h5',\
+    \ errno = 2, error message = 'No such file or directory', flags = 0, o_flags =\
+    \ 0)\n\nThe above exception was the direct cause of the following exception:\n\
+    \nTraceback (most recent call last):\n  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/country/country.py\"\
+    , line 149, in create_microsimulations\n    reform=self.default_reform, dataset=self.dataset\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 131, in __init__\n    self.build_from_dataset()\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 186, in build_from_dataset\n    ) from e\nFileNotFoundError: The dataset\
+    \ file enhanced_frs (with year 2022) could not be found. Make sure you have downloaded\
+    \ or built it using the `policyengine-core data` command.\n\nDuring handling of\
+    \ the above exception, another exception occurred:\n\nTraceback (most recent call\
+    \ last):\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 181, in build_from_dataset\n    data = self.dataset.load(self.dataset_year)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/data/dataset.py\"\
+    , line 126, in load\n    return h5py.File(file, mode=mode)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/h5py/_hl/files.py\"\
+    , line 533, in __init__\n    fid = make_fid(name, mode, userblock_size, fapl,\
+    \ fcpl, swmr=swmr)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/h5py/_hl/files.py\"\
+    , line 226, in make_fid\n    fid = h5f.open(name, flags, fapl=fapl)\n  File \"\
+    h5py/_objects.pyx\", line 54, in h5py._objects.with_phil.wrapper\n  File \"h5py/_objects.pyx\"\
+    , line 55, in h5py._objects.with_phil.wrapper\n  File \"h5py/h5f.pyx\", line 106,\
+    \ in h5py.h5f.open\nFileNotFoundError: [Errno 2] Unable to open file (unable to\
+    \ open file: name = '/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_uk/data/storage/enhanced_frs_2022.h5',\
+    \ errno = 2, error message = 'No such file or directory', flags = 0, o_flags =\
+    \ 0)\n\nThe above exception was the direct cause of the following exception:\n\
+    \nTraceback (most recent call last):\n  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/web_server/cache.py\"\
+    , line 169, in execute\n    result = self.task(params=self.params, **self.kwargs)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/country/country.py\"\
+    , line 339, in population_reform\n    baseline, reformed = self.create_microsimulations(params)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/country/uk/uk.py\"\
+    , line 59, in create_microsimulations\n    baseline, reformed = super().create_microsimulations(parameters)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/country/country.py\"\
+    , line 157, in create_microsimulations\n    reform=self.default_reform, dataset=self.dataset\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 131, in __init__\n    self.build_from_dataset()\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 186, in build_from_dataset\n    ) from e\nFileNotFoundError: The dataset\
+    \ file enhanced_frs (with year 2022) could not be found. Make sure you have downloaded\
+    \ or built it using the `policyengine-core data` command.\n"
+  time: '2022-12-22T11:54:06.290993'
+- cache_key: population_reform-ec26424e79babeb567c339cad4ada9d8-1.126.1
+  endpoint: population_reform
+  event: endpoint_thread_completion
+  time: 3.925849676132202
+- endpoint: population_reform
+  event: endpoint_call
+  time: 0.00046324729919433594
+- endpoint: population_reform
+  event: endpoint_call
+  time: 0.005694150924682617
+- endpoint: population_reform
+  event: endpoint_call
+  time: 0.0003192424774169922
+- endpoint: population_reform
+  event: endpoint_call
+  time: 0.0001709461212158203
+- endpoint: population_reform
+  event: endpoint_call
+  time: 0.00028586387634277344
+- endpoint: population_reform
+  error: Missing attribute 'value_type' in definition of variable 'spm_unit_benefits'.
+  event: task_error
+  full_trace: "Traceback (most recent call last):\n  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/web_server/cache.py\"\
+    , line 169, in execute\n    result = self.task(params=self.params, **self.kwargs)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/country/country.py\"\
+    , line 341, in population_reform\n    baseline, reformed, self.results_config\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/impact/population/charts/decile.py\"\
+    , line 60, in decile_chart\n    config.household_net_income_variable\n  File \"\
+    /Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/household/income/spm_unit/spm_unit_net_income.py\"\
+    , line 14, in formula\n    taxes = spm_unit(\"spm_unit_taxes\", period)\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 434, in sum_of_variables\n    return add(entity, period, variable_names)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/household/expense/tax/spm_unit_federal_tax.py\"\
+    , line 12, in formula\n    return sum_contained_tax_units(\"income_tax\", spm_unit,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/tools/general.py\"\
+    , line 27, in sum_contained_tax_units\n    values = tax_unit(var, period)\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 685, in _run_formula\n    array = formula(population, period)\n  File \"\
+    /Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/tools/general.py\"\
+    , line 46, in <lambda>\n    variable_cls.__name__, period\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/tax/federal_income/income_tax.py\"\
+    , line 14, in formula\n    \"income_tax_before_refundable_credits\", period\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/tax/federal_income/income_tax_before_refundable_credits.py\"\
+    , line 13, in formula\n    income_tax_bc = tax_unit(\"income_tax_before_credits\"\
+    , period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 685, in _run_formula\n    array = formula(population, period)\n  File \"\
+    /Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/tools/general.py\"\
+    , line 46, in <lambda>\n    variable_cls.__name__, period\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 434, in sum_of_variables\n    return add(entity, period, variable_names)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 685, in _run_formula\n    array = formula(population, period)\n  File \"\
+    /Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/tools/general.py\"\
+    , line 46, in <lambda>\n    variable_cls.__name__, period\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/tax/federal_income/before_credits/income_tax_main_rates.py\"\
+    , line 25, in formula\n    full_taxable_income = tax_unit(\"taxable_income\",\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/income/taxable_income/taxable_income.py\"\
+    , line 13, in formula\n    deductions = tax_unit(\"taxable_income_deductions\"\
+    , period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/income/taxable_income/deductions/taxable_income_deductions.py\"\
+    , line 14, in formula\n    \"taxable_income_deductions_if_itemizing\", period\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 434, in sum_of_variables\n    return add(entity, period, variable_names)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/income/taxable_income/deductions/itemizing/salt_deduction.py\"\
+    , line 17, in formula\n    [\"state_and_local_sales_or_income_tax\", \"real_estate_taxes\"\
+    ],\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/taxcalc/deductions/itemized/state_and_local_sales_or_income_tax.py\"\
+    , line 14, in formula\n    tax_unit, period, [\"state_income_tax\", \"local_income_tax\"\
+    ]\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 434, in sum_of_variables\n    return add(entity, period, variable_names)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/states/ny/tax/income/ny_income_tax.py\"\
+    , line 19, in formula\n    refundable_credits = add(tax_unit, period, refundable)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/states/ny/tax/income/credits/ctc/ny_ctc.py\"\
+    , line 27, in formula\n    federal_match = tax_unit(\"ny_federal_ctc\", period)\
+    \ * p.amount.percent\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 434, in sum_of_variables\n    return add(entity, period, variable_names)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/states/ny/tax/income/credits/ctc/ny_federal_actc.py\"\
+    , line 67, in formula\n    limiting_tax = tax_unit(\"ctc_limiting_tax_liability\"\
+    , period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/credits/ctc/ctc_limiting_tax_liability.py\"\
+    , line 14, in formula\n    no_salt_branch = simulation.get_branch(\"no_salt\"\
+    )\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 984, in get_branch\n    branch = self.clone()\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 966, in clone\n    new.tax_benefit_system = self.tax_benefit_system.clone()\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/taxbenefitsystems/tax_benefit_system.py\"\
+    , line 613, in clone\n    for variable_name, variable in self.variables.items()\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/taxbenefitsystems/tax_benefit_system.py\"\
+    , line 613, in <dictcomp>\n    for variable_name, variable in self.variables.items()\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/variables/variable.py\"\
+    , line 515, in clone\n    clone = self.__class__()\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/variables/variable.py\"\
+    , line 136, in __init__\n    allowed_values=config.VALUE_TYPES.keys(),\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/variables/variable.py\"\
+    , line 279, in set\n    attribute_name, self.name\nValueError: Missing attribute\
+    \ 'value_type' in definition of variable 'spm_unit_benefits'.\n"
+  time: '2022-12-22T11:54:32.157782'
+- cache_key: population_reform-31ebd0d7853f96a5995a89f1e565d4de-1.126.1
+  endpoint: population_reform
+  event: endpoint_thread_completion
+  time: 19.089725017547607
+- endpoint: population_reform
+  event: endpoint_call
+  time: 0.00016689300537109375
+- endpoint: population_reform
+  event: endpoint_call
+  time: 0.0064067840576171875
+- endpoint: population_reform
+  event: endpoint_call
+  time: 0.0002269744873046875
+- endpoint: population_reform
+  event: endpoint_call
+  time: 0.0001671314239501953
+- endpoint: population_reform
+  event: endpoint_call
+  time: 0.0002799034118652344
+- endpoint: population_reform
+  event: endpoint_call
+  time: 0.00023603439331054688
+- endpoint: population_reform
+  error: Missing attribute 'value_type' in definition of variable 'spm_unit_benefits'.
+  event: task_error
+  full_trace: "Traceback (most recent call last):\n  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/web_server/cache.py\"\
+    , line 169, in execute\n    result = self.task(params=self.params, **self.kwargs)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/country/country.py\"\
+    , line 341, in population_reform\n    baseline, reformed, self.results_config\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/impact/population/charts/decile.py\"\
+    , line 60, in decile_chart\n    config.household_net_income_variable\n  File \"\
+    /Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/household/income/spm_unit/spm_unit_net_income.py\"\
+    , line 14, in formula\n    taxes = spm_unit(\"spm_unit_taxes\", period)\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 434, in sum_of_variables\n    return add(entity, period, variable_names)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/household/expense/tax/spm_unit_federal_tax.py\"\
+    , line 12, in formula\n    return sum_contained_tax_units(\"income_tax\", spm_unit,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/tools/general.py\"\
+    , line 27, in sum_contained_tax_units\n    values = tax_unit(var, period)\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 685, in _run_formula\n    array = formula(population, period)\n  File \"\
+    /Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/tools/general.py\"\
+    , line 46, in <lambda>\n    variable_cls.__name__, period\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/tax/federal_income/income_tax.py\"\
+    , line 14, in formula\n    \"income_tax_before_refundable_credits\", period\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/tax/federal_income/income_tax_before_refundable_credits.py\"\
+    , line 13, in formula\n    income_tax_bc = tax_unit(\"income_tax_before_credits\"\
+    , period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 685, in _run_formula\n    array = formula(population, period)\n  File \"\
+    /Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/tools/general.py\"\
+    , line 46, in <lambda>\n    variable_cls.__name__, period\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 434, in sum_of_variables\n    return add(entity, period, variable_names)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 685, in _run_formula\n    array = formula(population, period)\n  File \"\
+    /Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/tools/general.py\"\
+    , line 46, in <lambda>\n    variable_cls.__name__, period\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/tax/federal_income/before_credits/income_tax_main_rates.py\"\
+    , line 25, in formula\n    full_taxable_income = tax_unit(\"taxable_income\",\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/income/taxable_income/taxable_income.py\"\
+    , line 13, in formula\n    deductions = tax_unit(\"taxable_income_deductions\"\
+    , period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/income/taxable_income/deductions/taxable_income_deductions.py\"\
+    , line 14, in formula\n    \"taxable_income_deductions_if_itemizing\", period\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 434, in sum_of_variables\n    return add(entity, period, variable_names)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/income/taxable_income/deductions/itemizing/salt_deduction.py\"\
+    , line 17, in formula\n    [\"state_and_local_sales_or_income_tax\", \"real_estate_taxes\"\
+    ],\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/taxcalc/deductions/itemized/state_and_local_sales_or_income_tax.py\"\
+    , line 14, in formula\n    tax_unit, period, [\"state_income_tax\", \"local_income_tax\"\
+    ]\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 434, in sum_of_variables\n    return add(entity, period, variable_names)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/states/ny/tax/income/ny_income_tax.py\"\
+    , line 19, in formula\n    refundable_credits = add(tax_unit, period, refundable)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/states/ny/tax/income/credits/ctc/ny_ctc.py\"\
+    , line 27, in formula\n    federal_match = tax_unit(\"ny_federal_ctc\", period)\
+    \ * p.amount.percent\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 434, in sum_of_variables\n    return add(entity, period, variable_names)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/states/ny/tax/income/credits/ctc/ny_federal_actc.py\"\
+    , line 67, in formula\n    limiting_tax = tax_unit(\"ctc_limiting_tax_liability\"\
+    , period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/credits/ctc/ctc_limiting_tax_liability.py\"\
+    , line 14, in formula\n    no_salt_branch = simulation.get_branch(\"no_salt\"\
+    )\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 984, in get_branch\n    branch = self.clone()\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 966, in clone\n    new.tax_benefit_system = self.tax_benefit_system.clone()\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/taxbenefitsystems/tax_benefit_system.py\"\
+    , line 613, in clone\n    for variable_name, variable in self.variables.items()\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/taxbenefitsystems/tax_benefit_system.py\"\
+    , line 613, in <dictcomp>\n    for variable_name, variable in self.variables.items()\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/variables/variable.py\"\
+    , line 515, in clone\n    clone = self.__class__()\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/variables/variable.py\"\
+    , line 136, in __init__\n    allowed_values=config.VALUE_TYPES.keys(),\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/variables/variable.py\"\
+    , line 279, in set\n    attribute_name, self.name\nValueError: Missing attribute\
+    \ 'value_type' in definition of variable 'spm_unit_benefits'.\n"
+  time: '2022-12-22T11:54:53.641075'
+- cache_key: population_reform-e3596c461e3ef507dd03717bfa13c771-1.126.1
+  endpoint: population_reform
+  event: endpoint_thread_completion
+  time: 20.539040565490723
+- endpoint: population_reform
+  event: endpoint_call
+  time: 0.00018215179443359375
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T13:35:29.348634'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T13:35:44.281944'
+- endpoint: calculate
+  event: endpoint_call
+  time: 0.0460207462310791
+- endpoint: calculate
+  event: endpoint_call
+  time: 0.020392894744873047
+- endpoint: population_reform
+  event: endpoint_call
+  time: 0.006537914276123047
+- endpoint: population_reform
+  error: The dataset file enhanced_frs (with year 2022) could not be found. Make sure
+    you have downloaded or built it using the `policyengine-core data` command.
+  event: task_error
+  full_trace: "Traceback (most recent call last):\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 181, in build_from_dataset\n    data = self.dataset.load(self.dataset_year)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/data/dataset.py\"\
+    , line 126, in load\n    return h5py.File(file, mode=mode)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/h5py/_hl/files.py\"\
+    , line 533, in __init__\n    fid = make_fid(name, mode, userblock_size, fapl,\
+    \ fcpl, swmr=swmr)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/h5py/_hl/files.py\"\
+    , line 226, in make_fid\n    fid = h5f.open(name, flags, fapl=fapl)\n  File \"\
+    h5py/_objects.pyx\", line 54, in h5py._objects.with_phil.wrapper\n  File \"h5py/_objects.pyx\"\
+    , line 55, in h5py._objects.with_phil.wrapper\n  File \"h5py/h5f.pyx\", line 106,\
+    \ in h5py.h5f.open\nFileNotFoundError: [Errno 2] Unable to open file (unable to\
+    \ open file: name = '/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_uk/data/storage/enhanced_frs_2022.h5',\
+    \ errno = 2, error message = 'No such file or directory', flags = 0, o_flags =\
+    \ 0)\n\nThe above exception was the direct cause of the following exception:\n\
+    \nTraceback (most recent call last):\n  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/country/country.py\"\
+    , line 149, in create_microsimulations\n    reform=self.default_reform, dataset=self.dataset\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 131, in __init__\n    self.build_from_dataset()\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 186, in build_from_dataset\n    ) from e\nFileNotFoundError: The dataset\
+    \ file enhanced_frs (with year 2022) could not be found. Make sure you have downloaded\
+    \ or built it using the `policyengine-core data` command.\n\nDuring handling of\
+    \ the above exception, another exception occurred:\n\nTraceback (most recent call\
+    \ last):\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 181, in build_from_dataset\n    data = self.dataset.load(self.dataset_year)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/data/dataset.py\"\
+    , line 126, in load\n    return h5py.File(file, mode=mode)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/h5py/_hl/files.py\"\
+    , line 533, in __init__\n    fid = make_fid(name, mode, userblock_size, fapl,\
+    \ fcpl, swmr=swmr)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/h5py/_hl/files.py\"\
+    , line 226, in make_fid\n    fid = h5f.open(name, flags, fapl=fapl)\n  File \"\
+    h5py/_objects.pyx\", line 54, in h5py._objects.with_phil.wrapper\n  File \"h5py/_objects.pyx\"\
+    , line 55, in h5py._objects.with_phil.wrapper\n  File \"h5py/h5f.pyx\", line 106,\
+    \ in h5py.h5f.open\nFileNotFoundError: [Errno 2] Unable to open file (unable to\
+    \ open file: name = '/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_uk/data/storage/enhanced_frs_2022.h5',\
+    \ errno = 2, error message = 'No such file or directory', flags = 0, o_flags =\
+    \ 0)\n\nThe above exception was the direct cause of the following exception:\n\
+    \nTraceback (most recent call last):\n  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/web_server/cache.py\"\
+    , line 169, in execute\n    result = self.task(params=self.params, **self.kwargs)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/country/country.py\"\
+    , line 339, in population_reform\n    baseline, reformed = self.create_microsimulations(params)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/country/uk/uk.py\"\
+    , line 59, in create_microsimulations\n    baseline, reformed = super().create_microsimulations(parameters)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/country/country.py\"\
+    , line 157, in create_microsimulations\n    reform=self.default_reform, dataset=self.dataset\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 131, in __init__\n    self.build_from_dataset()\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 186, in build_from_dataset\n    ) from e\nFileNotFoundError: The dataset\
+    \ file enhanced_frs (with year 2022) could not be found. Make sure you have downloaded\
+    \ or built it using the `policyengine-core data` command.\n"
+  time: '2022-12-22T13:35:46.640022'
+- cache_key: population_reform-ec26424e79babeb567c339cad4ada9d8-1.126.1
+  endpoint: population_reform
+  event: endpoint_thread_completion
+  time: 2.243061065673828
+- endpoint: population_reform
+  event: endpoint_call
+  time: 0.00020313262939453125
+- endpoint: population_reform
+  event: endpoint_call
+  time: 0.006385326385498047
+- endpoint: population_reform
+  event: endpoint_call
+  time: 0.00018906593322753906
+- endpoint: population_reform
+  error: Missing attribute 'value_type' in definition of variable 'spm_unit_benefits'.
+  event: task_error
+  full_trace: "Traceback (most recent call last):\n  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/web_server/cache.py\"\
+    , line 169, in execute\n    result = self.task(params=self.params, **self.kwargs)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/country/country.py\"\
+    , line 341, in population_reform\n    baseline, reformed, self.results_config\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/policyengine/impact/population/charts/decile.py\"\
+    , line 60, in decile_chart\n    config.household_net_income_variable\n  File \"\
+    /Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/household/income/spm_unit/spm_unit_net_income.py\"\
+    , line 14, in formula\n    taxes = spm_unit(\"spm_unit_taxes\", period)\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 434, in sum_of_variables\n    return add(entity, period, variable_names)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/household/expense/tax/spm_unit_federal_tax.py\"\
+    , line 12, in formula\n    return sum_contained_tax_units(\"income_tax\", spm_unit,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/tools/general.py\"\
+    , line 27, in sum_contained_tax_units\n    values = tax_unit(var, period)\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 685, in _run_formula\n    array = formula(population, period)\n  File \"\
+    /Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/tools/general.py\"\
+    , line 46, in <lambda>\n    variable_cls.__name__, period\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/tax/federal_income/income_tax.py\"\
+    , line 14, in formula\n    \"income_tax_before_refundable_credits\", period\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/tax/federal_income/income_tax_before_refundable_credits.py\"\
+    , line 13, in formula\n    income_tax_bc = tax_unit(\"income_tax_before_credits\"\
+    , period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 685, in _run_formula\n    array = formula(population, period)\n  File \"\
+    /Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/tools/general.py\"\
+    , line 46, in <lambda>\n    variable_cls.__name__, period\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 434, in sum_of_variables\n    return add(entity, period, variable_names)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 685, in _run_formula\n    array = formula(population, period)\n  File \"\
+    /Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/tools/general.py\"\
+    , line 46, in <lambda>\n    variable_cls.__name__, period\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/tax/federal_income/before_credits/income_tax_main_rates.py\"\
+    , line 25, in formula\n    full_taxable_income = tax_unit(\"taxable_income\",\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/income/taxable_income/taxable_income.py\"\
+    , line 13, in formula\n    deductions = tax_unit(\"taxable_income_deductions\"\
+    , period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/income/taxable_income/deductions/taxable_income_deductions.py\"\
+    , line 14, in formula\n    \"taxable_income_deductions_if_itemizing\", period\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 434, in sum_of_variables\n    return add(entity, period, variable_names)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/income/taxable_income/deductions/itemizing/salt_deduction.py\"\
+    , line 17, in formula\n    [\"state_and_local_sales_or_income_tax\", \"real_estate_taxes\"\
+    ],\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/taxcalc/deductions/itemized/state_and_local_sales_or_income_tax.py\"\
+    , line 14, in formula\n    tax_unit, period, [\"state_income_tax\", \"local_income_tax\"\
+    ]\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 434, in sum_of_variables\n    return add(entity, period, variable_names)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/states/ny/tax/income/ny_income_tax.py\"\
+    , line 19, in formula\n    refundable_credits = add(tax_unit, period, refundable)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/states/ny/tax/income/credits/ctc/ny_ctc.py\"\
+    , line 27, in formula\n    federal_match = tax_unit(\"ny_federal_ctc\", period)\
+    \ * p.amount.percent\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 434, in sum_of_variables\n    return add(entity, period, variable_names)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 226, in add\n    entity, period, variables, agg_func=\"add\", options=options\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/commons/formulas.py\"\
+    , line 181, in for_each_variable\n    values = entity(variable, period, options=options)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/states/ny/tax/income/credits/ctc/ny_federal_actc.py\"\
+    , line 67, in formula\n    limiting_tax = tax_unit(\"ctc_limiting_tax_liability\"\
+    , period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/populations/population.py\"\
+    , line 135, in __call__\n    variable_name, period, **calculate_kwargs\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/microsimulation.py\"\
+    , line 54, in calculate\n    values = super().calculate(variable_name, period,\
+    \ map_to, decode_enums)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 320, in calculate\n    result = self._calculate(variable_name, period)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 470, in _calculate\n    array = self._run_formula(variable, population,\
+    \ period)\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 687, in _run_formula\n    array = formula(population, period, parameters_at)\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_us/variables/gov/irs/credits/ctc/ctc_limiting_tax_liability.py\"\
+    , line 14, in formula\n    no_salt_branch = simulation.get_branch(\"no_salt\"\
+    )\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 984, in get_branch\n    branch = self.clone()\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/simulations/simulation.py\"\
+    , line 966, in clone\n    new.tax_benefit_system = self.tax_benefit_system.clone()\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/taxbenefitsystems/tax_benefit_system.py\"\
+    , line 613, in clone\n    for variable_name, variable in self.variables.items()\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/taxbenefitsystems/tax_benefit_system.py\"\
+    , line 613, in <dictcomp>\n    for variable_name, variable in self.variables.items()\n\
+    \  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/variables/variable.py\"\
+    , line 515, in clone\n    clone = self.__class__()\n  File \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/variables/variable.py\"\
+    , line 136, in __init__\n    allowed_values=config.VALUE_TYPES.keys(),\n  File\
+    \ \"/Users/louis_sofia/Documents/policyengine-main/venv/lib/python3.7/site-packages/policyengine_core/variables/variable.py\"\
+    , line 279, in set\n    attribute_name, self.name\nValueError: Missing attribute\
+    \ 'value_type' in definition of variable 'spm_unit_benefits'.\n"
+  time: '2022-12-22T13:36:05.098083'
+- cache_key: population_reform-31ebd0d7853f96a5995a89f1e565d4de-1.126.1
+  endpoint: population_reform
+  event: endpoint_thread_completion
+  time: 14.14028811454773
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T13:43:58.276027'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T13:44:14.596427'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T13:44:40.714678'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T13:44:56.365564'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T13:47:23.926057'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T13:47:40.821348'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T13:48:01.686490'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T13:48:17.603899'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T13:54:44.331152'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T13:55:00.909868'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T13:55:21.567029'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T13:55:35.797436'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T14:00:53.648999'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T14:01:18.872451'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T14:01:39.852233'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T14:01:54.613690'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T14:05:02.116701'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T14:05:21.057697'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T14:05:36.903318'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T14:05:49.126145'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T14:09:47.934282'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T14:10:00.029348'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T14:10:22.643629'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T14:10:36.397149'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T14:16:33.459052'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T14:16:45.268652'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T14:17:08.607730'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T14:17:27.736781'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T14:19:19.066908'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T14:19:32.522702'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T14:25:17.355119'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T14:25:32.611359'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T14:26:22.309072'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T14:26:42.193782'
+- event: general_server_message
+  message: Initialising server.
+  time: '2022-12-22T14:30:11.109466'
+- event: general_server_message
+  message: Initialisation complete.
+  time: '2022-12-22T14:30:29.754229'
