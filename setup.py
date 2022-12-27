@@ -32,3 +32,14 @@ setup(
     ],
     packages=find_packages(),
 )
+setup(
+    name="stormbrain-agency",
+    version="1.126.1",
+    author="stormbrain-agency",
+    license="http://www.fsf.org/licensing/licenses/agpl-3.0.html",
+    url="https://github.com/stormbrain-agency/policyengine",
+    install_requires=[
+        "PolicyEngine-Core>=1.9.0",
+    ],
+    packages=find_packages(),
+)
