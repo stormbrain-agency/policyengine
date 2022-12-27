@@ -5,10 +5,9 @@ from flask_cors import CORS
 from policyengine.web_server.cache import (
     DisabledCache,
     LocalCache,
-    PolicyEngineCache,
     add_params_and_caching,
 )
-from policyengine.web_server.logging import PolicyEngineLogger, logged_endpoint
+from policyengine.web_server.logging import logged_endpoint, PolicyEngineLogger
 from policyengine.web_server.cors import after_request_func
 from policyengine.web_server.static_site import add_static_site_handling
 from policyengine.package import POLICYENGINE_PACKAGE_PATH
@@ -22,7 +21,7 @@ class PolicyEngine:
     """The version of the PolicyEngine API, used to identify the API version in the cache.
     """
 
-    cache_bucket_name: str = "uk-policy-engine.appspot.com"
+    cache_bucket_name: str = "fiscalsim"
     """The name of the Google Cloud Storage bucket used to cache results.
     """
 
@@ -44,6 +43,7 @@ class PolicyEngine:
 
     def __init__(self, debug: bool = False):
         self._debug = debug
+        print("Initialising APP.")
         self._init_logger()
         self.log("Initialising server.")
         self._init_countries()
@@ -58,13 +58,9 @@ class PolicyEngine:
 
     def _init_cache(self):
         """Initialise the cache for load-intensive endpoint results."""
-        if self.cache_bucket_name is not None and not self.debug_mode:
-            print("Initialising cache.")
-            self.cache = PolicyEngineCache(
-                self.version, self.cache_bucket_name
-            )
-        else:
-            self.cache = LocalCache(self.version)
+
+           # print("Initialising cache.")
+        self.cache = LocalCache(self.version)
 
     def _init_flask(self):
         """Initialise the Flask application."""
@@ -82,10 +78,10 @@ class PolicyEngine:
         add_static_site_handling(self.app)
         for country in self.countries:
             for endpoint, endpoint_fn in country.api_endpoints.items():
-                endpoint_fn = add_params_and_caching(
-                    endpoint_fn, self.cache, self.logger
-                )
-                endpoint_fn = logged_endpoint(endpoint_fn, self.logger)
+                #endpoint_fn = add_params_and_caching(
+                 #   endpoint_fn, self.cache, self.logger
+                #)
+                #endpoint_fn = logged_endpoint(endpoint_fn, self.logger)
                 self.app.route(
                     f"/{country.name}/api/{endpoint.replace('_', '-')}",
                     methods=["GET", "POST"],

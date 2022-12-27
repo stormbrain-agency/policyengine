@@ -123,7 +123,7 @@ export default class Country {
     }
 
     useLocalServer = true;
-    usePolicyEngineOrgServer = true;
+    usePolicyEngineOrgServer = false;
 
     waitingOnPopulationImpact = false;
     waitingOnAgeChart = false;
@@ -151,4 +151,4 @@ export default class Country {
     extraParameterListNames = [];
 }
 
-export const CountryContext = createContext({ name: "us" });
+export const CountryContext = createContext({ name: "uk" });

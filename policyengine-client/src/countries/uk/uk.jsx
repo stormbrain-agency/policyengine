@@ -51,7 +51,7 @@ export class UK extends Country {
       ? this.usePolicyEngineOrgServer
         ? "https://policyengine.org/"
         : `${window.location.protocol}//${window.location.hostname}`
-      : `http://127.0.0.1:5000`;
+      : `http://localhost:3003`;
     this.apiURL = `${this.baseApiUrl}/${this.name}/api`;
   }
   apiURL = null;

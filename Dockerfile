@@ -23,4 +23,8 @@ RUN cd /app && make server
 
 # Run a WSGI server to serve the application. gunicorn must be declared as
 # a dependency in requirements.txt.
+
+RUN rm  /env/lib/python3.7/site-packages/policyengine_core/data/private_dataset.py
+RUN cp private_dataset.py  /env/lib/python3.7/site-packages/policyengine_core/data/
+
 CMD gunicorn -b :$PORT policyengine.server:app --timeout 240

@@ -228,21 +228,38 @@ class PolicyEngineCountry:
             situation=parameters["household"],
         )
 
-    def entities(self, params: dict, logger: PolicyEngineLogger) -> dict:
+    # def entities(self, params: dict, logger: PolicyEngineLogger) -> dict:
+    #     """Get the available entities for the OpenFisca country model."""
+    #     return self.entity_data
+
+    def entities(self) -> dict:
         """Get the available entities for the OpenFisca country model."""
         return self.entity_data
 
-    def variables(self, params: dict, logger: PolicyEngineLogger) -> dict:
+    # def variables(self, params: dict, logger: PolicyEngineLogger) -> dict:
+    #     """Get the available entities for the OpenFisca country model."""
+    #     return self.variable_data
+
+    def variables(self) -> dict:
         """Get the available entities for the OpenFisca country model."""
         return self.variable_data
 
-    def parameters(self, params: dict, logger: PolicyEngineLogger) -> dict:
+    # def parameters(self, params: dict, logger: PolicyEngineLogger) -> dict:
+    #     """Get the available entities for the OpenFisca country model."""
+    #     if "policy_date" in params:
+    #         return build_parameters(
+    #             self.baseline_tax_benefit_system,
+    #             date=params.get("policy_date"),
+    #         )
+    #     return self.parameter_data
+
+    def parameters(self) -> dict:
         """Get the available entities for the OpenFisca country model."""
-        if "policy_date" in params:
-            return build_parameters(
-                self.baseline_tax_benefit_system,
-                date=params.get("policy_date"),
-            )
+        # if "policy_date" in params:
+        #     return build_parameters(
+        #         self.baseline_tax_benefit_system,
+        #         date=params.get("policy_date"),
+        #     )
         return self.parameter_data
 
     def parameter(self, params: dict, logger: PolicyEngineLogger) -> dict:
@@ -318,9 +335,16 @@ class PolicyEngineCountry:
 
         return params["household"]
 
-    def endpoint_runtimes(
-        self, params: dict, logger: PolicyEngineLogger
-    ) -> dict:
+    # def endpoint_runtimes(self, params: dict, logger: PolicyEngineLogger) -> dict:
+    #     """Get the average runtime of a population reform."""
+    #     average_runtimes = {}
+    #     for key in self.endpoint_runtimes:
+    #         while len(self.endpoint_runtimes[key]) > 10:
+    #             self.endpoint_runtimes[key].pop(0)
+    #         average_runtimes[key] = np.average(self.endpoint_runtimes[key])
+    #     return average_runtimes
+
+    def endpoint_runtimes(self) -> dict:
         """Get the average runtime of a population reform."""
         average_runtimes = {}
         for key in self.endpoint_runtimes:
